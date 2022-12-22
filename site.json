@@ -9,6 +9,9 @@
     "github": "cowtrix",
     "twitter": ""
   },
+  "newsletter": {
+    "showTwitterBanner": false
+  },
   "seo": {
     "title": "Sean Finnegan",
     "description": "Blog of a Software Engineer",
