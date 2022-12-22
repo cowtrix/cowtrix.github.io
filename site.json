@@ -1,0 +1,23 @@
+{
+  "title": "Sean Finnegan",
+  "subtitle": "",
+  "owner": {
+    "name": "Sean Finnegan",
+    "email": "seandgfinnegan@gmail.com"
+  },
+  "social": {
+    "github": "cowtrix"
+  },
+  "seo": {
+    "title": "Sean Finnegan",
+    "description": "Blog of a Software Engineer",
+    "author": "Sean Finnegan",
+    "keywords": [
+      "blog",
+      "programming",
+      "philosophy",
+      "game development"
+    ]
+  },
+  "cname": "seanfinnegan.info"
+}
