@@ -9,7 +9,7 @@ Orbital re-entry of crewed spacecraft is a complicated dance of physics. You eve
 
 The same is true of orbital ejections from Earth. Generally we try to launch from near the equator as we can, and in the direction of the Earth's rotation (easterly). This is so we can steal a bit of this initial speed from the Earth itself. To get ourselves from one stellar body to another we might do a Hohmann transfer, which means there is going to be some arbitrary point in the stable orbital trajectory where we need to fire some impulse to get onto this new trajectory (where line '2' begins below). That arc over low-earth orbit can be of any length, from a few moments to multiple orbits around the globe, and stretch over any number of nation-states.
 
-![A diagram of a Hohmann transfer, credit to WikiCommons](img/220px-Hohmann_transfer_orbit.svg.png)
+![A diagram of a Hohmann transfer, credit to WikiCommons](220px-Hohmann_transfer_orbit.svg.png)
 
 There have been significant developments in the ability for nation-states to control their low-earth orbit even in the past few decades. [Anti-satellite systems](https://en.wikipedia.org/wiki/Anti-satellite_weapon) are a rapidly growing sector of defence, with current systems claiming the ability to target low-orbit satellites. In 2007, the Chinese military destroyed a Chinese weather satellite through their ASAT (anti-satellite) program. In 2008, the US Navy destroyed a US spy satellite using a ship-launched missile. In 2019, India joined in the fun with their own test destruction of their own satellite. Clearly, such systems are alive, well, and advancing quickly.
 

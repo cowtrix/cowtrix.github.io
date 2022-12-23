@@ -13,9 +13,9 @@ Just download the .zip file, extract is somewhere, and run the executable file.
 
 > Handling the lost and found box for an interdimensional plane is a thankless job - which is good, because we didn't have time to implement being thanked. But it is also one that requires careful organisation and quick customer service. Things are found all the time on the interdimensional plane, and they don't all get along. But when someone comes looking, Charlie Bones will find the missing item.
 
-![Screenshot 1](img/CharlieBones_1.png)
+![Screenshot 1](CharlieBones_1.png)
 
-![Screenshot 1](img/CharlieBones_2.png)
+![Screenshot 1](CharlieBones_2.png)
 
 Apologies for the framerate in the video below.
 

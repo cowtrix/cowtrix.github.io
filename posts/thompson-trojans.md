@@ -9,7 +9,7 @@ In his 1984 lecture ["Reflections on Trusting Trust"](https://www.cs.cmu.edu/~rd
 
 The lecture explains the trojan far better than I can, but appears to be a vulnerability that occurs within [bootstrapped compilers](https://en.wikipedia.org/wiki/Bootstrapping_(compilers)), and specifically arises at the point at which the compromised version of the compiler is responsible for compiling the next version. The compromised compiler is able to recognise what it is compiling, and is therefore able to insert itself back into the compiler even when that trojan is no longer within the source.
 
-![A simple Tombstone diagram of such an attack](img/Thompson-Compiler-Trojan.PNG)
+![A simple Tombstone diagram of such an attack](Thompson-Compiler-Trojan.PNG)
 
 Theoretically, Thompson's trojan could still be out there somewhere within the Unix kernel, and there would be *no way of ever knowing*. Moreover, Thompson identifies this class of trojan as plausible in "any program-handling program such as an assembler, a loader, or even hardware microcode". Even if you were to go and download the GCC source code and build your own compiler from source, you must do so with a potentially compromised version of the compiler. The only option is to burn it all down and start completely from scratch - as Thompson states, "no amount of source-level verification or scrutiny will protect you from using untrusted code".
 
@@ -23,7 +23,7 @@ Thompson asserts that any self-iterating “program-handling program” is vulne
 
 Let's think about the most abstract representation of a system vulnerable to this attack:
 
-![A generalised diagram of such an attack](img/Thompson-Generalised-Trojan.PNG)
+![A generalised diagram of such an attack](Thompson-Generalised-Trojan.PNG)
 
 We represent some kind of iterative process as two types of component:
 - `S` represents the symbols we input into the iteration process, `S'` the second set, and so on.

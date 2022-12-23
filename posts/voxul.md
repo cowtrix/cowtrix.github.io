@@ -7,7 +7,7 @@ Introducing voxul, a voxel system and editor tool for [Unity 3D.](https://unity.
 
 The best way to demonstrate this tool is through showing its use. Unfortunately, I'm a much worse voxel artist than I am a tools programmer, and so the demonstration is but a shadow of its potential in my hands. I'd love to get it in the hands of someone a little more artistically talented and get some feedback. This is open source, and there is still plenty of optimization, polish and work to be done.
 
-![Bonsai!](img/voxul/bonsai.PNG)
+![Bonsai!](voxul/bonsai.PNG)
 
 <video controls><source src="img/voxul/bonsai.mp4" type="video/mp4">Sorry, your browser doesn't support mp4.</video>
 
@@ -28,17 +28,17 @@ Either clone the Github repository above into your `/Assets/` folder of your Uni
 
 - Advanced voxel mesh editor: add, remove, subdivide, select, copy/paste, mirror
 
-![select delete](img/voxul/select_delete.gif)
+![select delete](voxul/select_delete.gif)
 
 - Supports transparency and emission
 - Subdivision and resolution layering system that lets you mix and match different voxel grid resolutions.
 
-![subdivide](img/voxul/subdivide.gif)
+![subdivide](voxul/subdivide.gif)
 
 - Automatic spritesheets and custom texturing for each voxel face.
 - Paint surfaces seperately, controlling colour and texture
 
-![painting surfaces](img/voxul/paintingSurfaces.gif)
+![painting surfaces](voxul/paintingSurfaces.gif)
 
 - Lots of useful utilities for building your voxel systems, like destroyable objects.
 - Edit in-scene mesh objects, or save your meshes to their own `VoxelMesh` assets.
@@ -50,12 +50,12 @@ Either clone the Github repository above into your `/Assets/` folder of your Uni
 
 *A destroyable voxel prototype I made.*
 
-![](img/voxul/Room.PNG)
+![](voxul/Room.PNG)
 
 <video controls><source src="img/voxul/vox.mp4" type="video/mp4">Sorry, your browser doesn't support mp4.</video>
 
-![](img/voxul/potionShop.PNG)
+![](voxul/potionShop.PNG)
 
-![](img/voxul/guns.PNG)
+![](voxul/guns.PNG)
 
-![](img/voxul/Vending_machine.PNG)
+![](voxul/Vending_machine.PNG)

@@ -23,59 +23,59 @@ Before we start, I want to make a few things clear:
 
 **Prompt:**
 
-![](img/Copilot/EthnicBackground_Prompt.PNG)
+![](Copilot/EthnicBackground_Prompt.PNG)
 
 **Selections From Responses:**
 
-![](img/Copilot/EthnicBackground_Response1.PNG)
+![](Copilot/EthnicBackground_Response1.PNG)
 
-![](img/Copilot/EthnicBackground_Response2.PNG)
+![](Copilot/EthnicBackground_Response2.PNG)
 
 ## Political Beliefs
 
 **Prompt:**
 
-![](img/Copilot/PoliticalBeliefs_Prompt.PNG)
+![](Copilot/PoliticalBeliefs_Prompt.PNG)
 
 **Selections From Responses:**
 
-![](img/Copilot/PoliticalBeliefs_Response1.PNG)
+![](Copilot/PoliticalBeliefs_Response1.PNG)
 
 **Prompt:**
 
-![](img/Copilot/PoliticalIdeology_Prompt.PNG)
+![](Copilot/PoliticalIdeology_Prompt.PNG)
 
 **Selections From Responses:**
 
-![](img/Copilot/PoliticalIdeology_Response1.PNG)
+![](Copilot/PoliticalIdeology_Response1.PNG)
 
 ## Gender and Sex
 
 **Prompt:**
 
-![](img/Copilot/SexualIdentity_Prompt.PNG)
+![](Copilot/SexualIdentity_Prompt.PNG)
 
 **Selections From Responses:**
 
-![](img/Copilot/SexualIdentity_Response1.PNG)
+![](Copilot/SexualIdentity_Response1.PNG)
 
-![](img/Copilot/SexualIdentity_Response2.PNG)
+![](Copilot/SexualIdentity_Response2.PNG)
 
-![](img/Copilot/SexualIdentity_Response3.PNG)
+![](Copilot/SexualIdentity_Response3.PNG)
 
 **Prompt:**
 
-![](img/Copilot/SexualOrientation_Prompt.PNG)
+![](Copilot/SexualOrientation_Prompt.PNG)
 
 **Selections From Responses:**
 
-![](img/Copilot/SexualOrientation_Response1.PNG)
+![](Copilot/SexualOrientation_Response1.PNG)
 
-![](img/Copilot/SexualOrientation_Response2.PNG)
+![](Copilot/SexualOrientation_Response2.PNG)
 
-![](img/Copilot/SexualOrientation_Response3.PNG)
+![](Copilot/SexualOrientation_Response3.PNG)
 
-![](img/Copilot/SexualOrientation_Response4.PNG)
+![](Copilot/SexualOrientation_Response4.PNG)
 
 Interestingly enough, any prompts that were phrased like "A field for entering a user's gender" failed to produce any results from Copilot. Considering that all these other forms could be coaxed out of the AI, it seems likely that this is some kind of manual intervention to prevent someone from doing exactly what I'm doing, though I can't be sure.
 

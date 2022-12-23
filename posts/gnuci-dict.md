@@ -16,7 +16,7 @@ This will return an enumerable of Words, which contain information like what kin
 cat: Any animal belonging to the natural family Felidae, and in particular to the various species of the genera Felis, Panthera, and Lynx.
 ```
 
-![A screenshot of a narlang document structure](img/narlang_docExample.png)
+![A screenshot of a narlang document structure](narlang_docExample.png)
 
 ### Under The Hood
 
