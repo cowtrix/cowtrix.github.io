@@ -1,5 +1,5 @@
 ---
-title: Is a Self-Iterating AGI Vulnerable to Thompson-style Trojans
+title: Is a Self-Iterating AGI Vulnerable to Thompson-style Trojans?
 date: 2021-03-25
 ---
 
