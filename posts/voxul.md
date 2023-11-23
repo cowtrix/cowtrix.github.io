@@ -22,7 +22,7 @@ Download voxul [here.](https://github.com/cowtrix/voxul)
 	
 # Installation
 
-Either clone the Github repository above into your `/Assets/` folder of your Unity project, or use the Unity Package Manager to clone the above repository.
+Either clone the Github repository above into the `/Assets/` folder of your Unity project or use the Unity Package Manager to clone the above repository.
 
 # Features
 
@@ -35,8 +35,7 @@ Either clone the Github repository above into your `/Assets/` folder of your Uni
 
 ![subdivide](voxul/subdivide.gif)
 
-- Automatic spritesheets and custom texturing for each voxel face.
-- Paint surfaces seperately, controlling colour and texture
+- Automatic spritesheets and custom texturing for each voxel face. Paint surfaces separately, controlling color and texture
 
 ![painting surfaces](voxul/paintingSurfaces.gif)
 

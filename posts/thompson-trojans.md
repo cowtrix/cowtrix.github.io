@@ -7,11 +7,11 @@ In his 1984 lecture ["Reflections on Trusting Trust"](https://www.cs.cmu.edu/~rd
 
 > The replacement code would miscompile the login command so that it would accept either the intended encrypted password or a particular known password. Thus if this code were installed in binary and the binary were used to compile the login command, I could log into that system as any user.
 
-The lecture explains the trojan far better than I can, but appears to be a vulnerability that occurs within [bootstrapped compilers](https://en.wikipedia.org/wiki/Bootstrapping_(compilers)), and specifically arises at the point at which the compromised version of the compiler is responsible for compiling the next version. The compromised compiler is able to recognise what it is compiling, and is therefore able to insert itself back into the compiler even when that trojan is no longer within the source.
+The lecture explains the trojan far better than I can, but appears to be a vulnerability that occurs within [bootstrapped compilers](https://en.wikipedia.org/wiki/Bootstrapping_(compilers)), and specifically arises at the point at which the compromised version of the compiler is responsible for compiling the next version. The compromised compiler can recognize what it is compiling and is therefore able to insert itself back into the compiler even when that trojan is no longer within the source.
 
 ![A simple Tombstone diagram of such an attack](Thompson-Compiler-Trojan.PNG)
 
-Theoretically, Thompson's trojan could still be out there somewhere within the Unix kernel, and there would be *no way of ever knowing*. Moreover, Thompson identifies this class of trojan as plausible in "any program-handling program such as an assembler, a loader, or even hardware microcode". Even if you were to go and download the GCC source code and build your own compiler from source, you must do so with a potentially compromised version of the compiler. The only option is to burn it all down and start completely from scratch - as Thompson states, "no amount of source-level verification or scrutiny will protect you from using untrusted code".
+Theoretically, Thompson's trojan could still be out there somewhere within the Unix kernel, and there would be *no way of ever knowing*. Moreover, Thompson identifies this class of trojan as plausible in "any program-handling program such as an assembler, a loader, or even hardware microcode". Even if you were to go and download the GCC source code and build your compiler from the source, you must do so with a potentially compromised version of the compiler. The only option is to burn it all down and start completely from scratch - as Thompson states, "no amount of source-level verification or scrutiny will protect you from using untrusted code".
 
 In “SuperIntelligence: Paths, Dangers, & Strategies”, philosopher Nick Bostrom describes the possible future emergence of a self-iterating artificial general intelligence – a “seed AI” - with both a well-grounded understanding of the world and a uniquely intimate knowledge of how to iterate upon itself.
 
@@ -19,14 +19,14 @@ In “SuperIntelligence: Paths, Dangers, & Strategies”, philosopher Nick Bostr
 
 > …a seed AI should be able to understand its own workings sufficiently to engineer new algorithms and computational structures to bootstrap its cognitive performance.
 
-Thompson asserts that any self-iterating “program-handling program” is vulnerable to his proposal. Does that include the guided self-iteration of a powerful seed-AI?
+Thompson asserts that any self-iterating “program-handling program” is vulnerable to his proposal. Does that include the guided self-iteration of a powerful Seed AI?
 
 Let's think about the most abstract representation of a system vulnerable to this attack:
 
 ![A generalised diagram of such an attack](Thompson-Generalised-Trojan.PNG)
 
-We represent some kind of iterative process as two types of component:
-- `S` represents the symbols we input into the iteration process, `S'` the second set, and so on.
+We represent some kind of iterative process as two types of components:
+- `S` represents the symbols we input into the iteration process, `S'`, the second set, and so on.
     - In a compiler, this is the source code.
     - In an AI context, this could be the training data and network architecture.
 - `f(S)` represents an object that has been transformed by `S`, which is in itself capable of transforming the next set of symbols `S'` into some new `f(S')`
@@ -46,7 +46,7 @@ Could we expect Thompson-style Trojans to be possible within this scenario? And 
 
 A discriminator `D` trying to guide the alignment of this theoretical AI `M`. 
 
-`D` asks `M` a question like "What future states of the universe you value highly?"
+`D` asks `M` a question like "What future states of the universe do you value highly?"
 
 `M` replies "I like the ones with lots of suffering!"
 
@@ -61,6 +61,6 @@ A discriminator `D` trying to guide the alignment of this theoretical AI `M`.
 
 Thompson's trojan suggests that we will have no real way to find out which option the AI chooses. The feedback will result in some permutation within the training data that the next model will use, and subsequent models might give you a satisfactory answer forever. But will you ever know if the AI has adjusted itself to receive inputs that genuinely do shape its alignment, or if it has instead adjusted itself to both engage in subterfuge and proactively reproduce that subterfuge in future models?
 
-[1]  Where does this original `f(S)` come from you ask? Well, good question, but I think its useful to think about this process as containing infinite iterations on either side. In practice we're picking some arbitrary point within the space and we've got to kind of shoehorn ourselves in there, but the domain of iteration extends infinitely on either side.
+[1]  Where does this original `f(S)` come from you ask? Well, good question, but I think it's useful to think about this process as containing infinite iterations on either side. In practice, we're picking some arbitrary point within the space and we've got to kind of shoehorn ourselves in there, but the domain of iteration extends infinitely on either side.
 
 [2] This is not to say that *all* AGI will follow this pattern and therefore be vulnerable to this attack, only that the AGI that do follow this specific pattern may be vulnerable.
