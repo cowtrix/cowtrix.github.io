@@ -5,7 +5,7 @@ date: 2023-05-16
 
 So artificial intelligence got pretty good recently, huh? Specifically, it improved quite a bit at *creating things*, the field of Generative AI. This newfound ability of generative art has sparked a range of hostile responses, some of which I think are fairly well-founded and all of which I think are worth discussing. After all, creative endeavors are perhaps our most emotionally guarded skillset as an intelligent species. The current mimicry of large generative models forces us to reconsider the very nature of culture and the things that generate it. 
 
-![An image generated with DALL-E 2 based on the text prompt "Teddy bears working on new AI research underwater with 1990s technology"](https://en.wikipedia.org/wiki/File:DALL-E_2_artificial_intelligence_digital_image_generated_photo.jpg)
+![An image generated with DALL-E 2 based on the text prompt "Teddy bears working on new AI research underwater with 1990s technology"](DALL-E_2_artificial_intelligence_digital_image_generated_photo.jpg)
 
 2021 was the year of the low-resolution vaguely-recognizable GAN image generators and GPT3. They weren't terrible, but they also were clearly limited. Remember when [DALL-E 1](https://en.wikipedia.org/wiki/DALL-E) was impressive? Well, how quickly times change.
 
