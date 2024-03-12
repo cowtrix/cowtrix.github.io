@@ -1,4 +1,4 @@
-﻿![My Face.](face.jpg)
+![My Face.](face.jpg)
 
 Sean is a high-functioning sack of sapient flesh, consisting mostly of complex proteins and water. He was born in 1992 – on time and under budget – in Sydney, Australia. He's lived in Melbourne, Santiago, Lima, Sydney and Bristol. His current location is: Melbourne.
 
