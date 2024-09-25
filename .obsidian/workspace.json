@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "05d8c64ffa42ede6",
+        "id": "98613f0ea4482a61",
         "type": "tabs",
         "children": [
           {
-            "id": "cbff3f5ff7a38068",
+            "id": "b9afadc538784b71",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "about.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "about.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "about.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "about.md"
               }
             }
           }
@@ -146,14 +146,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b912d03be2281af4",
+  "active": "b9afadc538784b71",
   "lastOpenFiles": [
-    "about.md",
+    "posts/marketplaces-of-bad-ideas.md",
+    "posts/scp-xxxx-gore.md",
+    "posts/semantic-neurons.md",
+    "posts/aliens-dog.md",
     "README.md",
+    "about.md",
     "posts/egos-are-bandwidth-membranes.md",
     "posts/flow-states.md",
     "posts/rbto.md",
-    "posts/aliens-dog.md",
     "2.md",
     "posts/babo-conquista.md",
     "posts/charlie-bones.md",
