@@ -17,7 +17,7 @@ Despite having the attention span of a particularly spaced-out hamster, I do man
 If my name's on the credits, I'm taking credit.
 ### [Hurtworld](/hurtworld)
 
-![](/hurtworld.jpg)
+![](/Hurtworld.jpg)
 
 2014 - 2018
 
@@ -35,7 +35,7 @@ I build developer tooling for the Frostbite engine team at Electronic Arts. It's
 
 I like making things that make things. When I can, I also like sharing these tools as open source.
 
-## [PlayStation Debug Tools](https://www.snsystems.com/)
+### [PlayStation Debug Tools](https://www.snsystems.com/)
 
 ![](SNSystems.png)
 
