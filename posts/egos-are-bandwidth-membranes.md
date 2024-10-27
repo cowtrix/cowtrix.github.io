@@ -10,7 +10,7 @@ What do I mean when I say the word "ego"? Previously I've said that I mean an in
 
 Can we find another, more physical lens through which to examine this sublime object? Undoubtedly. But which one is most interesting? I've been thinking about the lens of informational bandwidth. Can we perceive an ego by the relative bandwidth of information flow within a system, as a *bandwidth membrane* separating an area of high bandwidth from an area of lower bandwidth? What possibilities and limitations does such a lens suggest? Is your ego truly dependent on being enclosed from the outside world through these membranes?
 
-This piece continues on from [Part 1 - Egos Are Fractally Complex](/egos-are-fractal)
+This piece continues on from [Part 1 - Egos Are Fractally Complex](/egos-are-fractally-complex)
 
 # What Is Information?
 
