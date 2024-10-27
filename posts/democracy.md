@@ -35,7 +35,7 @@ So, if we are to accurately measure the impact of decisions, we must select syst
 
 The first thing I think of when you ask me why this property of democracy is worth pursuing are two intertwined ethical axioms I think are quite good - that we should **minimize suffering**, and that we should **maximize agency**.
 
-But, I hear you say, you just said "we shouldn't endorse ethical axioms!" Well, no, I said that our *support of democracy* shouldn't be an axiom. At some point, if we're talking about ranking future states of the universe by desirability, we do need to [arbitrarily decide our goals](http://lrtw.net/blog/ethics&arbitraryobjects), and we should try to make those goals as generalizable as possible.
+But, I hear you say, you just said "we shouldn't endorse ethical axioms!" Well, no, I said that our *support of democracy* shouldn't be an axiom. At some point, if we're talking about ranking future states of the universe by desirability, we do need to [arbitrarily decide our goals](/ethics&arbitraryobjects), and we should try to make those goals as generalizable as possible.
 
 ## Maximizing Agency
  

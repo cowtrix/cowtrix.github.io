@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "98613f0ea4482a61",
+        "id": "c66635775b8b92b3",
         "type": "tabs",
         "children": [
           {
-            "id": "b9afadc538784b71",
+            "id": "a2fccad2a29ebaa9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "about.md",
+                "file": "projects.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "about",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "about.md",
+                "file": "projects.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "about.md",
+                "file": "projects.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "about.md"
+                "file": "projects.md"
               }
             }
           }
@@ -146,28 +146,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b9afadc538784b71",
+  "active": "a2fccad2a29ebaa9",
   "lastOpenFiles": [
-    "posts/marketplaces-of-bad-ideas.md",
-    "posts/scp-xxxx-gore.md",
-    "posts/semantic-neurons.md",
-    "posts/aliens-dog.md",
-    "README.md",
-    "about.md",
     "posts/egos-are-bandwidth-membranes.md",
-    "posts/flow-states.md",
-    "posts/rbto.md",
-    "2.md",
-    "posts/babo-conquista.md",
-    "posts/charlie-bones.md",
     "posts/consequences-of-automation.md",
+    "posts/aliens-dog.md",
+    "posts/utility-utilitarianism.md",
+    "static/2019_IntersectionTest_1.png",
+    "ethics&arbitraryobjects.md",
+    "posts/semantic-neurons.md",
+    "posts/gmtk-2021.md",
+    "posts/egos-are-fractal.md",
     "posts/democracy.md",
-    "posts/emotions-and-heuristics.md",
-    "posts/mad-maps.md",
-    "posts/the-price-of-space-is-friendship.md",
-    "posts/thompson-trojans.md",
-    "posts/god-only-wise.md",
     "posts/computers-smarter.md",
-    "posts/bureaucracy.md"
+    "posts/social-media.md",
+    "posts/the-cave.md",
+    "posts/sn-systems.md",
+    "posts/sense.md",
+    "posts/scp-xxxx-gore.md",
+    "posts/rbto.md",
+    "posts/parables.md",
+    "posts/nuclear.md",
+    "posts/media-diversity.md",
+    "posts/mary-and-the-memory-implant.md",
+    "posts/marketplaces-of-bad-ideas.md",
+    "posts/flow-states.md",
+    "posts/gnuci-dict.md",
+    "posts/hurtworld.md",
+    "posts/babo-conquista.md",
+    "static/charliebonesinterdimensionalhelpcentre.png",
+    "projects.md"
   ]
 }

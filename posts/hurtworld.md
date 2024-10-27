@@ -2,7 +2,6 @@
 title: Hurtworld - An Open-World Surival Game for PC
 date: 2018-06-04
 ---
-
 Between 2014 to 2018, I worked at an independent games studio called Bankroll as a programmer and game designer. The studio was only between 3 and 5 people in size over the course of the 4 years. We created the open-world multiplayer survival game Hurtworld.
 
 This game ran on PC, Mac and Linux and was built with the Unity engine. My role here touched most aspects of design and programming, such as networking, UI design, tools creation, and the creation of multiple complex runtime systems. There were lots of interesting problems to solve - from building a realtime icon-rendering system that could render dynamically generated items into an inventory system, to environmental systems that emulated dynamic weather and time of day, to shaders and graphics. It was a heck of an experience!

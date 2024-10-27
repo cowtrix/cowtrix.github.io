@@ -41,7 +41,7 @@ It is here where our analogy to human intelligence truly breaks down. Our intell
 
 ## 3. The dangers of "bootstrapped" AGI
 
-Chiang talks about bootstrapping compilers and this is, in my opinion, actually quite a good analogy. But Chiang somewhat misinterprets the concept of bootstrapping, and its implications for unknowability.  [I've talked a little bit previously about how we can think of this analogy in depth here](http://lrtw.net/blog/isaself-iteratingagivulnerabletothompson-styletrojans) and some of the threats it implies, so I won't repeat myself, but this ties directly into what I say there. The threat described within compilers - Thompson-style trojans - is precisely *because* the semantics of the compiler machine code are not realistically computable.
+Chiang talks about bootstrapping compilers and this is, in my opinion, actually quite a good analogy. But Chiang somewhat misinterprets the concept of bootstrapping, and its implications for unknowability.  [I've talked a little bit previously about how we can think of this analogy in depth here](/isaself-iteratingagivulnerabletothompson-styletrojans) and some of the threats it implies, so I won't repeat myself, but this ties directly into what I say there. The threat described within compilers - Thompson-style trojans - is precisely *because* the semantics of the compiler machine code are not realistically computable.
 
 ## 4. AGI will Optimize For Generality
 

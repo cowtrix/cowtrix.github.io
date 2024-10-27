@@ -50,7 +50,7 @@ This limitation on building models of conscious beings isn't, in my view, a bad 
 
 Abeba Birhane; [The Impossibility of Automating Ambiguity, 2021](https://direct.mit.edu/artl/article/doi/10.1162/artl_a_00336/101872/The-Impossibility-of-Automating-Ambiguity)
 
-[^1]: I've talked a little bit about how, if these systems rank future states based on some heuristic of desirability, they transform into [ethical systems](https://lrtw.net/blog/ethics&arbitraryobjects) by definition.
+[^1]: I've talked a little bit about how, if these systems rank future states based on some heuristic of desirability, they transform into [ethical systems](/ethics&arbitraryobjects) by definition.
 
 [^2]: I use the word "ego" instead of words like "human being", "person", "intelligence" and so on because I want to try to generalise beyond how people work, because I think this is a more general problem than just the realm of the meatbags. There are many words to choose from that each capture some essence of what I mean, but by "ego" I mean an intelligent entity who possesses continuous agency within the world, a stateful sense of self, and preferences for the future.
 

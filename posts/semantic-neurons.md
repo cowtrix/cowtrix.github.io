@@ -102,7 +102,7 @@ So that translates to:
 
 Amazing! And it found that solution in less than a second. Furthermore, it can pretty reliably find novel solutions. But as we push this further, we see the limitations. Many attempts - especially when given an especially tricky target that is a long way away - end up in a local minimum, with no mutation able to reduce the error further. Can it do this for any number to any other number in a decent amount of time? Let's plot an x/y graph between -100 and 100, and try to generate a program for each point that, when given input `x`, outputs `y`. We'll express how many generations it took us to get to a result in blue, and we'll express how big the error is when we get there in red. That means that the bright pink dots are where we failed to find a good solution.
 
-![A plot graph showing how well our algorithm works.](https://lrtw.net/blog/img/functiongen/01_naivesearch.png)
+![A plot graph showing how well our algorithm works.](static/functiongen/01_naivesearch.png)
 Hum! We see failure cases when the inputs and outputs are very far apart, which is kind of interesting as most of these functions end up using very large random numbers. Can we improve the generative process a bit? Okay, here's two ideas:
 
 ### Optimisation: Generational Backtracking
@@ -115,14 +115,14 @@ A naive generational algorithm will randomly mutate a program with no rules. It 
 
 With these improvements, things are looking a lot better for the -100 to 100 domain!
 
-![A plot graph showing how well our algorithm works.](https://lrtw.net/blog/img/functiongen/03_weights_evo_and_history.png)
+![A plot graph showing how well our algorithm works.](static/functiongen/03_weights_evo_and_history.png)
 How about when we extend it out to -10,000 - 10,000? Here it is with a totally random instruction mutation and only generational backtracking:
 
-![A plot graph](https://lrtw.net/blog/img/functiongen/04_10k-10k_randomEvo.png)
+![A plot graph](static/functiongen/04_10k-10k_randomEvo.png)
 And now with weighted instruction mutations - a significant improvement, which validates our intuition that this is a valuable contribution in this case.
 
-![A plot graph](https://lrtw.net/blog/img/functiongen/05_10-10_weightedEvo.png)
-![A pie graph showing relative constructive utilization of different instructions..](https://lrtw.net/blog/img/functiongen/InstructionSetWeighting.PNG)
+![A plot graph](static/functiongen/05_10-10_weightedEvo.png)
+![A pie graph showing relative constructive utilization of different instructions..](static/FunctionGen/InstructionSetWeighting.PNG)
 But dog only knows why these weights were so strongly preferenced! Subtracting the value from register 4 was by far the most popular instruction, and yet putting a value into that register was only a fraction of that. Who knows! Not me.
 
 ## 2nd Experiment: Training for Multiple Values
@@ -151,7 +151,7 @@ Okay, how about something a little harder? Can it figure out `y = 4x² + 8x + 16
 
 We define the error bound as the sum of all absolute differences of the intitial training set. So if our training set is `[1, 5] [4, 7] [2, 9]`, then the error bound will be `(5-1) + (7-4) + (9-2) = 14` . For this run, I defined a good result as one that approximated to < 1% of the error bound.
 
-![A graph showing the true function alongside the calculated approximation.](https://lrtw.net/blog/img/functiongen/07_Graph%20-%20plotting%20function%20against%20approx.png)
+![A graph showing the true function alongside the calculated approximation.](static/functiongen/07_Graph%20-%20plotting%20function%20against%20approx.png)
 Amazing stuff! We can see that the function we've evolved fits the target line pretty well. But does it do well for the general set of functions like before? For instance, we can do something like `y = ix² + jx + c`where we iterate `i` and `j` from `-100` to `100`, and for the sake of simplicity we'll just randomly select a value for `c` between `[-100, 100]`. This failed a lot at first, with the majority of points hitting the 100-generation limit with no good solution - more improvements are needed!
 
 ### Optimisation: Use Previous Good Solutions as a Baseline
@@ -160,7 +160,7 @@ One optimisation I thought might be useful is sharing good programs from previou
 
 Even so, this took a *long* time - the CPU version took almost 31 hours to fill out the full set! And even after that, we had a lot of failure cases. However, I'm pretty sure all of these failure cases would have eventually folded to computation and in general I think the premise holds promise. I slightly changed the colouring on this one so you could see the detail a bit more - the red channel is our error, the green channel is our generations, so yellow pixels are our failure cases:
 
-![A final plot of our graph.](https://lrtw.net/blog/img/functiongen/output_final.png)
+![A final plot of our graph.](static/functiongen/output_final.png)
 
 In general, I think this is a promising route. Can we create an array of these objects and train them to cooperate? Let's find out next time!
 
