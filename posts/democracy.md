@@ -1,6 +1,9 @@
 ---
 title: Why Democracy?
 date: 2021-04-04
+tags:
+  - Reflection
+  - Politics
 ---
 
 I am an avid and radical believer in the [systemic property](https://eaasos.info/Content/System/CPT_SysProps.htm) of democracy. But if you had asked me (before I wrote this, anyway) *why* I hold such a strong and deeply-held belief, I would have been uncomfortable with the amount of [cultural conditioning](https://www.exceptionalfutures.com/cultural-conditioning/) that would come to mind. I grew up in in the West where you are saturated with a nominally pro-democracy viewpoint for your whole life, and so it is easy to endorse it *as* an ethical axiom, as opposed to in support of ethical axioms. It isn't enough for me to just feel strongly in support of radical democracy - I need to be able to tell you why.  
@@ -35,7 +38,7 @@ So, if we are to accurately measure the impact of decisions, we must select syst
 
 The first thing I think of when you ask me why this property of democracy is worth pursuing are two intertwined ethical axioms I think are quite good - that we should **minimize suffering**, and that we should **maximize agency**.
 
-But, I hear you say, you just said "we shouldn't endorse ethical axioms!" Well, no, I said that our *support of democracy* shouldn't be an axiom. At some point, if we're talking about ranking future states of the universe by desirability, we do need to [arbitrarily decide our goals](/ethics&arbitraryobjects), and we should try to make those goals as generalizable as possible.
+But, I hear you say, you just said "we shouldn't endorse ethical axioms!" Well, no, I said that our *support of democracy* shouldn't be an axiom. At some point, if we're talking about ranking future states of the universe by desirability, we do need to [arbitrarily decide our goals](/ethics-and-arbitrary-objects), and we should try to make those goals as generalizable as possible.
 
 ## Maximizing Agency
  

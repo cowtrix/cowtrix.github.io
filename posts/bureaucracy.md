@@ -1,6 +1,9 @@
 ---
 title: Bureaucracy
 date: 2021-03-01
+tags:
+  - Reflection
+  - Autobiographical
 ---
 
 The year was 2018, and I was burning rubber southwards down the Peruvian coastline with a deadline for Santiago, Chile. My van - a Chevy Astro 2008 coined *Babo Conquista* - was my home and my world as I travelled, with a bed in the back, gas-hungry engine up front, and the heady musk of habitance all around. I was at the end of my journey, financially and emotionally exhausted, ready to lay my head down on a more permanent pillow after 10 or so months of vagrancy. On my way to sell the van in Santiago, I reached the northern Peru-Chile border. It was here that I encountered one of the more stressful experiences of bureaucracy in my life.

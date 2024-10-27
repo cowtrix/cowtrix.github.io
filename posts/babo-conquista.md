@@ -1,6 +1,8 @@
 ---
 title: Babo Conquista
 date: 2019-01-20
+tags:
+  - Autobiographical
 ---
 I did okay off Hurtworld. I wouldn't describe it as a breakout hit, but it was an honest passion-project that never lacked ambition and it had some decent sales, and I ended up with some cash to blow. My partner had decided to move to the United Kingdom for an adventure, and I decided it was time for an adventure of my own.
 

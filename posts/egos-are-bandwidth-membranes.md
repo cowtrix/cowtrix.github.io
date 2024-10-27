@@ -1,13 +1,16 @@
 ---
 title: Egos Are Bandwidth Membranes
 date: 2021-05-10
+tags:
+  - Reflection
+  - Philosopy
 ---
 
 What do I mean when I say the word "ego"? Previously I've said that I mean an intelligent entity who possesses continuous agency within the world, a stateful sense of self, and preferences for the future. Human beings normatively value this form of intelligence highly, because we are egos ourselves. However, these 3 properties are only measurable through inferring internal state from external actions of the entity. They are subjective experiences of the entity which manifest externally in measurable ways, but with only this definition we lack an understanding of its material structure and physical limitations.
 
 Can we find another, more physical lens through which to examine this sublime object? Undoubtedly. But which one is most interesting? I've been thinking about the lens of informational bandwidth. Can we perceive an ego by the relative bandwidth of information flow within a system, as a *bandwidth membrane* separating an area of high bandwidth from an area of lower bandwidth? What possibilities and limitations does such a lens suggest? Is your ego truly dependent on being enclosed from the outside world through these membranes?
 
-This piece continues on from [Part 1 - Egos Are Fractally Complex](/egosarefractallycomplex)
+This piece continues on from [Part 1 - Egos Are Fractally Complex](/egos-are-fractal)
 
 # What Is Information?
 
@@ -51,7 +54,7 @@ An individual ant within an ant colony does not possess an ego. Their brain is m
 
 This membrane doesn't seem to be particularly impermeable however. Supercolonies of ants can be made up of hundreds of millions of different ants and millions of distinct colonies, and yet continue to cooperate as one entity. Some colonies can remain separated for long periods and return to the wider supercolony with no issues. However, there do seem to be stronger areas of this membrane than others, and colonies often fight vast wars against other colonies over territory when no cooperative relationship exists between them.
 
-In xenobiology, we tend to assume that any encounter with an individual of an alien species will be indicative of the total intelligence of that species. However, this may not be true for a species which is sending drone-like explorers out in a hivemind structure. The vast distances of space reduce global bandwidth, and therefore require that to maintain a single hivemind each individual must only have access to a low amount of local bandwidth. Alien species may then have good reason to send simple automotons as interstellar explorers, being able to quickly explore systems with a single, distributed mind and many millions of individuals. One indicator of a hivemind may be that the individuals of this species are housed within much more advanced technology than the intelligence of those individuals seems to suggest - for instance, complex robots with the intelligence of insects. However, as I address in [this post](/howwouldaliensknowadogisntarobot), this question is far from trivial.
+In xenobiology, we tend to assume that any encounter with an individual of an alien species will be indicative of the total intelligence of that species. However, this may not be true for a species which is sending drone-like explorers out in a hivemind structure. The vast distances of space reduce global bandwidth, and therefore require that to maintain a single hivemind each individual must only have access to a low amount of local bandwidth. Alien species may then have good reason to send simple automotons as interstellar explorers, being able to quickly explore systems with a single, distributed mind and many millions of individuals. One indicator of a hivemind may be that the individuals of this species are housed within much more advanced technology than the intelligence of those individuals seems to suggest - for instance, complex robots with the intelligence of insects. However, as I address in [this post](/aliens-dog), this question is far from trivial.
 
 A hivemind civilization may manage to increase the bandwidth available to it by either evolving unintentionally or by developing some new technology. This lens implies that said civilization will face a trilemma if it wishes to maintain its single ego while exploiting this new bandwidth. Either the civilization can increase the individual complexity of its drones, it can increase the number of drones, or it can increase the volume over which the drones are distributed. It cannot maximally do all three or even two of them without risking internal fragmentation into multiple egos.
 

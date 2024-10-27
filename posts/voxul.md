@@ -1,6 +1,9 @@
 ---
 title: voxul
 date: 2021-06-07
+tags:
+  - GameDev
+  - Coding
 ---
 
 Introducing voxul, a voxel system and editor tool for [Unity 3D.](https://unity.com/) Use it to build voxel meshes, objects and levels. 

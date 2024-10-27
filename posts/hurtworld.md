@@ -1,6 +1,8 @@
 ---
 title: Hurtworld - An Open-World Surival Game for PC
 date: 2018-06-04
+tags:
+  - GameDev
 ---
 Between 2014 to 2018, I worked at an independent games studio called Bankroll as a programmer and game designer. The studio was only between 3 and 5 people in size over the course of the 4 years. We created the open-world multiplayer survival game Hurtworld.
 
@@ -14,4 +16,4 @@ I made many good friends at Bankroll and learned many lessons about myself and t
 
 So, check out [Hurtworld on Steam.](https://store.steampowered.com/app/393420/Hurtworld/)
 
-At the end of this job, I asked Bankroll to spin off a set of level-design tools called [Mad Maps](madmaps-anon-destructiveterrainpipelineforunity), another great experience.
+At the end of this job, I asked Bankroll to spin off a set of level-design tools called [Mad Maps](/mad-maps), another great experience.

@@ -1,6 +1,9 @@
 ---
 title: Egos Are Fractally Complex
 date: 2021-04-19
+tags:
+  - Reflection
+  - Philosopy
 ---
 
 > "All models are wrong, but some are useful" -- <cite>[George Box](https://en.wikipedia.org/wiki/George_E._P._Box)</cite>

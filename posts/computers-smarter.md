@@ -1,6 +1,8 @@
 ---
 title: Why Computers Probably Will Make Themselves Smarter
 date: 2021-04-01
+tags:
+  - Reflection
 ---
 
 Recently, author Ted Chiang wrote an article entitled [Why Computers Won’t Make Themselves Smarter](https://www.newyorker.com/culture/annals-of-inquiry/why-computers-wont-make-themselves-smarter). In this article, Chiang argues that concerns around a self-iterating Artificial General Intelligence (AGI) emerging as a superintelligence are unfounded.

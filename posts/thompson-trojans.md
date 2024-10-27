@@ -1,6 +1,9 @@
 ---
 title: Is a Self-Iterating AGI Vulnerable to Thompson-style Trojans?
 date: 2021-03-25
+tags:
+  - Reflection
+  - Coding
 ---
 
 In his 1984 lecture ["Reflections on Trusting Trust"](https://www.cs.cmu.edu/~rdriley/487/papers/Thompson_1984_ReflectionsonTrustingTrust.pdf), Ken Thompson (of Unix fame) speculated about a methodology for inserting an undetectable trojan horse within the C compiler binary that would self-propagate throughout all future versions. ([Additional good video that got me thinking about this.](https://www.youtube.com/watch?v=SJ7lOus1FzQ))

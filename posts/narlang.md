@@ -1,6 +1,8 @@
 ---
 title: narlang
 date: 2020-07-13
+tags:
+  - Coding
 ---
 
 Narlang (Narrative Language) is a markup language for generating documents. It was designed as a tool to assist in the composition of long, complex documents, specifically novels. Its purpose is to combine many of the features of a code language with general document production.

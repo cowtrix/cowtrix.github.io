@@ -1,6 +1,9 @@
 ---
 title: Mad Maps - A Non-Destructive Terrain Pipeline for Unity
 date: 2018-02-07
+tags:
+  - GameDev
+  - Coding
 ---
 
 Mad Maps was a set of tools I built in my time at Bankroll Studios in the period of 2017-2018 and then went on to sell on the Unity Asset Store as a standalone product. 
@@ -22,4 +25,6 @@ Check out some overview videos below:
 [Unity Asset Store](https://assetstore.unity.com/packages/tools/terrain/mad-maps-111524)
 
 [Here's the latest build](../static/2018/MadMaps_0_1_4a.unitypackage)
+
+[Git Repository](https://github.com/cowtrix/Mad-Maps)
 

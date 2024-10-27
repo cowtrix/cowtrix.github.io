@@ -1,6 +1,8 @@
 ---
 title: Charlie Bones' Interdimensional Help Centre
 date: 2021-01-31
+tags:
+  - GameDev
 ---
 
 This is my entry for the Global Game Jam 2021! I did it all myself with public-source assets for things like audio and textures, combined with a little voxel engine I've been building.

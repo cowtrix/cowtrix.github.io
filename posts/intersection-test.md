@@ -1,6 +1,9 @@
-﻿---
+---
 title: An Intersection Test for Arbitrary Rectangular Prisms
 date: 2017-12-07
+tags:
+  - GameDev
+  - Coding
 ---
 
 Have you ever had two arbitrarily rotated and sized rectangular prisms, and wanted to check if they’re intersecting? I know I have! Just an old AABB won’t do the trick, as very snug fitting rectangular prisms need to be detected and dismissed. There are some dastardly configurations (for instance, imagine a very very small rectangular prism sitting just above the surface of a massive and highly skewed rectangular prism) which also need to be sussed out.

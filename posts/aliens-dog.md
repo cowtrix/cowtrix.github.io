@@ -1,13 +1,15 @@
 ---
 title: How Would Aliens Know A Dog Isn't A Robot?
 date: 2021-05-20
+tags:
+  - Reflection
 ---
 
 An alien civilization is testing out its magical matter transporter, which can transport random sections of the universe into their lab. One day while testing, they press the button and a dog from Earth appears in the transporter in front of them. The aliens are shocked and overjoyed. This is by far the most interesting thing to ever come out of their transporter. However, due to the random nature of the technology, they cannot keep transporting bits of the Earth to them to learn more. All they have is a 6-year-old golden retriever named Charlie.
 
 ![Pretty much exactly like this.](https://media.giphy.com/media/XCy2gXigoY7Cq22lZI/giphy.gif)
 
-The aliens may choose to study the mechanics of our good doggo Charlie to learn more about his providence. They might marvel over the incredibly intricate machinery that makes up each cell, study closely the code of DNA and the clockwork machines of proteins, watch the conscious behavior and response to stimuli, and be impressed by the ingenuity and negative entropy of the object.
+The aliens may choose to study the mechanics of our good doggo Charlie to learn more about his providence. They might marvel over the incredibly intricate machinery that makes up each cell, study closely the code of DNA and the clockwork machines of proteins, watch the conscious behaviour and response to stimuli, and be impressed by the ingenuity and negative entropy of the object.
 
 The head scientist gathers all of their colleagues around, and presents them with the question: is this dog a result of natural evolution, or was intelligence involved in its creation? How would they know, devoid of context? Would they be able to be confident in any final guess?
 
@@ -19,7 +21,7 @@ The somewhat blurry ground truth here, of course, is that dogs are a naturally o
 
 An alien scientist suggests that the answer is obvious - Charlie, while lovely, is not very intelligent - even for a dog. Charlie displays no self-awareness, language skills, or complex problem-solving abilities. While it's plausible that Charlie is merely a master of subterfuge and is obfuscating his true intelligence from the aliens, an assessment of the processing capabilities of Charlie's brain seems to show otherwise. Because of this cognitive ability, the scientist proclaims, that such an object is undoubtedly arrived at through natural selection.
 
-But, says another scientist: the low intelligence of single agents within a civilization may not be indicative of the total or even average intelligence of that civilization. As we've [previously discussed](/egosarebandwidthmembranes), intelligent hivemind systems have good reasons why they might produce agents of relatively low complexity. As Charlie possesses a fair few mechanisms for low-bandwidth communication, such a theory cannot be discounted.
+But, says another scientist: the low intelligence of single agents within a civilization may not be indicative of the total or even average intelligence of that civilization. As we've [previously discussed](/egos-are-bandwidth-membranes), intelligent hivemind systems have good reasons why they might produce agents of relatively low complexity. As Charlie possesses a fair few mechanisms for low-bandwidth communication, such a theory cannot be discounted.
 
 *Conclusion*: A good start, and certainly the easiest option is to just ask the being and trust their answer. Intensive analysis of Charlie's woofs and barks, however, has failed to produce a usable language model to phrase such complex questions.
 
@@ -27,9 +29,9 @@ But, says another scientist: the low intelligence of single agents within a civi
 
 ![A gif of a dog in a space suit.](https://media.giphy.com/media/3o7TKGFmsNlL44bzwc/giphy.gif)
 
-One of the aliens suggests analyzing the level of redundancy and noise within Charlie. For instance by analyzing the DNA to see how much stored meaningful information that did things, and how much had no distinguishable purpose. They reason that a highly intelligent species will only ever produce very efficient and compact objects with very little redundancy or high entropy. Therefore, they claim, the presence of noise within the object is evidence that it is natural.
+One of the aliens suggests analysing the level of redundancy and noise within Charlie. For instance by analysing the DNA to see how much stored meaningful information that did things, and how much had no distinguishable purpose. They reason that a highly intelligent species will only ever produce very efficient and compact objects with very little redundancy or high entropy. Therefore, they claim, the presence of noise within the object is evidence that it is natural.
 
-But, says another scientist: it is impossible to accurately judge the redundancy of Charlie with only limited knowledge of the information. For instance, sections of DNA that the aliens may naively judge to be useless - i.e. they produce no meaningful behavior within a cell when read by normal processes - may be well-encrypted semantic information that the aliens just don't have the decryption keys for. It would not be possible to discern such a scenario. Well-encrypted information is not distinguishable from random noise, so we can't say that "things that look like noise to us" within a system are necessarily indicative of high entropy.
+But, says another scientist: it is impossible to accurately judge the redundancy of Charlie with only limited knowledge of the information. For instance, sections of DNA that the aliens may naively judge to be useless - i.e. they produce no meaningful behaviour within a cell when read by normal processes - may be well-encrypted semantic information that the aliens just don't have the decryption keys for. It would not be possible to discern such a scenario. Well-encrypted information is not distinguishable from random noise, so we can't say that "things that look like noise to us" within a system are necessarily indicative of high entropy.
 
 *Conclusion*: An object may certainly be shown to be low-entropy, with a large part of its contents containing both informational structure and utility. But we cannot make strong claims about an object being high entropy, because we might just not have the right context to be able to access it. Considering also that any form of autonomous object is likely already very low entropy, depending on these small variations seems doomed to fail.
 

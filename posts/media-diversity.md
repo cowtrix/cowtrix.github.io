@@ -1,6 +1,10 @@
 ---
 title: Parliamentary Inquiry into Media Diversity - Personal Submission
 date: 2020-11-24
+tags:
+  - Reflection
+  - Autobiographical
+  - Politics
 ---
 
 Senator Hanson-Young recently posted a tweet about the Parliamentary Inquiry into Media Diversity currently happening in Australia, part of a growing movement to improve the dismal state of Australian media concentration.

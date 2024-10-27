@@ -1,6 +1,8 @@
 ---
 title: SCP Proposal - The Gore Corporation
 date: 2024-06-19
+tags:
+  - Fiction
 ---
 > I enjoy the SCP literature universe, so I took a stab at writing one. Enjoy!
 

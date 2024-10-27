@@ -1,6 +1,8 @@
 ---
 title: Flow States Are Pretty Cool
-date: 2021-02-22 
+date: 2021-02-22
+tags:
+  - Reflection
 ---
 
 [Flow](https://en.wikipedia.org/wiki/Flow_(psychology)) is a psychological state defined by an intense presence in the moment and a merging of action and awareness. A gymnast performing a well-practiced routine, or a musician reciting a piece may experience a sense of flow. 

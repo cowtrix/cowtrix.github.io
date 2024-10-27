@@ -1,6 +1,9 @@
 ---
 title: Emotions & Heuristics
 date: 2021-02-21
+tags:
+  - Reflection
+  - Philosopy
 ---
 
 So, emotions right? What a heckin' experience! Certainly one of the more attention-grabbing features of the human condition. But what even are they?

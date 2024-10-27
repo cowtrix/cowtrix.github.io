@@ -1,6 +1,8 @@
 ---
 title: Easy Function Timers in C# 8.0
 date: 2020-12-07
+tags:
+  - Coding
 ---
 
 A function timer is a class that can monitor the execution of functions and time them. If you’ve got some upper limit on how long a function should take then these timers can be very useful in detecting drops in performance.

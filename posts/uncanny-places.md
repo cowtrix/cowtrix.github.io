@@ -1,6 +1,9 @@
 ---
 title: Uncanny Places - Presence and Immersion In Interactive Environments
 date: 2023-11-23
+tags:
+  - Reflection
+  - GameDev
 ---
 
 We're familiar with the concept of the [Uncanny Valley](https://en.wikipedia.org/wiki/Uncanny_valley) as applied to human beings. In brief, there is a proposed axis of realism in the representation of a human being, from highly abstract to completely realistic. Along that axis, people generally have different emotional reactions. We can feel attached to abstract cartoon characters and consider them real beings, but as the likeness grows we reach this "uncanny valley", in which an aversion or sense of wrongness overwhelms any possible emotional connection the the thing. 

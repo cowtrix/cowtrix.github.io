@@ -1,6 +1,8 @@
 ---
 title: The Price Of Space Is Friendship
 date: 2021-03-07
+tags:
+  - Reflection
 ---
 
 It's an exciting time in the history of human exploration. We're only just beginning to probe outside our biosphere. Low-orbit, long-term space inhabitation like that seen on the ISS has been the norm for many years now. As of the time of writing, [7 people were in space]( https://www.howmanypeopleareinspacerightnow.com/). Our long term goals seem set on permanent outposts on Mars.

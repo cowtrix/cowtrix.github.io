@@ -1,6 +1,8 @@
 ---
 title: Why Aren’t You Scared Of What Sent You Here?
 date: 2020-11-04
+tags:
+  - Reflection
 ---
 
 We are currently dedicating a huge amount of technological brainpower to the manipulation of human behavior via technology. I cannot, in any terms, stress enough how bad of an idea this is. It’s a stinker. It’s a really, really, bad idea to teach AI how to manipulate human behaviour. I want to discuss these Behavioural Modification Artificial Intelligences (BMAI), how they are increasingly running our lives, and why you should care.

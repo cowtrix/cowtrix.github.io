@@ -1,6 +1,9 @@
 ---
 title: Rent Based Transitory Ownership - A Blueprint For Just Rent
 date: 2019-05-14
+tags:
+  - Reflection
+  - Politics
 ---
 
 As income inequality increases, one mechanism for the movement of wealth from the general population to an increasingly insular property-owning class is through rent of residential property. While it cannot be said that landlords do not have some responsibilities to their tenants in most countries, the power relationship between landlord and tenant remains unbalanced. It is solely the landlord who decides if a lease should remain or expire, regardless of how many years the tenant has spent in the home. The tenants labor in maintaining and protecting the home is unrewarded, and we must rely on punitive incentives such as bonds to encourage responsible tenancy.

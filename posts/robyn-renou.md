@@ -1,6 +1,8 @@
 ---
 title: Robyn Renou
 date: 2021-04-01
+tags:
+  - Fiction
 ---
 
 Once, on Earth, there was a fungus called Ophiocordyceps unilateralis. It grew in the rainforests and would infect the Camponotini ant, sending tendrils of mycelia drilling into its brain. It would take over the neurons and force the ant to leave its work and climb the nearest plant, affixing itself with its mandibles. For a few days, the fungus would just sit and grow. Eventually, it would burst from the head - a long, thin sprouting organ that when ready would rain thousands of deadly spores on the ants below.

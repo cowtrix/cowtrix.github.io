@@ -1,6 +1,8 @@
 ---
 title: God Only Wise
 date: 2010-11-05
+tags:
+  - Fiction
 ---
 
 > I wrote this story in my final year of high school. It's about life-extension, death, and purpose.

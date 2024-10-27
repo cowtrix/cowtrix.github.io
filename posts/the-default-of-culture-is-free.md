@@ -1,6 +1,8 @@
 ---
 title: The Default Of Culture Is Free
 date: 2023-05-16
+tags:
+  - Reflection
 ---
 
 So artificial intelligence got pretty good recently, huh? Specifically, it improved quite a bit at *creating things*, the field of Generative AI. This newfound ability of generative art has sparked a range of hostile responses, some of which I think are fairly well-founded and all of which I think are worth discussing. After all, creative endeavors are perhaps our most emotionally guarded skillset as an intelligent species. The current mimicry of large generative models forces us to reconsider the very nature of culture and the things that generate it. 

@@ -1,6 +1,9 @@
 ---
 title: Utility & Utilitarianism
 date: 2021-06-10
+tags:
+  - Reflection
+  - Philosopy
 ---
 
 Utilitarianism is an ethical system based upon maximizing or minimizing some utility function. A utility function, in this sense, is some operation on a set of information that produces a value. In other words, it is a function that makes statements like "State `A` of the universe is less desirable than state `B`". In conversations around human ethics, this utilitarian utility function is often vaguely expressed in terms of "well-being" or "happiness". On occasion, I've been called a utilitarian because I discussed heuristics, ethical systems as [any systems that rank the future](/ethics&arbitraryobjects), and ["maximizing" or "minimizing" things](/whydemocracy), but I'm not quite sure I understand what it means to be one.

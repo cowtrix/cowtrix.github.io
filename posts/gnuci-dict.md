@@ -1,6 +1,8 @@
 ---
 title: gnuciDictionary
 date: 2020-08-17
+tags:
+  - Coding
 ---
 
 *gnuciDictionary* is an offline nuget port of the [GNU Collaborative International Dictionary of English](https://gcide.gnu.org.ua/) for .Net. Defining a word is simple: Simply give a string, and you will be given a list of definitions for that string, or null if no definition can be found.
@@ -15,8 +17,6 @@ This will return an enumerable of Words, which contain information like what kin
 ```
 cat: Any animal belonging to the natural family Felidae, and in particular to the various species of the genera Felis, Panthera, and Lynx.
 ```
-
-![A screenshot of a narlang document structure](narlang_docExample.png)
 
 ### Under The Hood
 

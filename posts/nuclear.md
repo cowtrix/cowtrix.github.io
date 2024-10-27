@@ -1,6 +1,8 @@
 ---
 title: Nuclear
 date: 2010-11-05
+tags:
+  - Fiction
 ---
 
 > This is a play I wrote in 2010. I am proud to say it was selected as the best play in the state of NSW and performed professionally in a program called Writers OnStage. It's about a young man returning home. It's strange to read, all these years later, but some of the jokes still make me laugh. It's evidently the work of a teenager, and I hope you'll take it as such.

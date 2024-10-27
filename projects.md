@@ -2,4 +2,18 @@ Despite having the attention span of a particularly spaced-out hamster, I do man
 
 ## Released Games
 
-[Hurtworld](/hurtworld) (200)
+If my name's on the credits, I'm taking credit.
+
+| [Hurtworld](/hurtworld) (2016) |     |     |     |
+| ------------------------------ | --- | --- | --- |
+| ![](/static/hurtworld.jpg)     |     |     |     |
+|                                |     |     |     |
+|                                |     |     |     |
+
+## Games Tools
+
+| [Playstation Debug Tools](https://www.snsystems.com/) |     |     |     |
+| ----------------------------------------------------- | --- | --- | --- |
+| ![](static/SNSystems.png)                             |     |     |     |
+|                                                       |     |     |     |
+|                                                       |     |     |     |

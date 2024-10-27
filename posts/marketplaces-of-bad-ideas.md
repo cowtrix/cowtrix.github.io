@@ -1,6 +1,9 @@
 ---
 title: Marketplaces of Bad Ideas
 date: 2021-02-24
+tags:
+  - Reflection
+  - Philosopy
 ---
 You might have heard of "The Marketplace of Ideas" (hereafter referred to as a MoI). This phrase is means a certain freedom to discuss, promote and pursue *any* ideology within a "free" or otherwise unregulated landscape. If we take it at face value, the MoI promises that if you just let ideas fight it out on some level-playing-field, the **good** ones will rise at the top.
 

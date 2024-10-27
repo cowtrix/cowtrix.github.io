@@ -1,6 +1,10 @@
 ---
 title: Bristol, PlayStation and SN Systems
 date: 2021-09-20
+tags:
+  - Reflection
+  - Autobiographical
+  - GameDev
 ---
 
 When I finished my year of travelling around South America and rejoined my partner in the UK, little beyond a destination was certain. I had seen and read about Bristol from media but it was an abstract concept to me. But the abstract appealed, the counterculture, the punks, the artistic and leftist strains that ran throughout it.

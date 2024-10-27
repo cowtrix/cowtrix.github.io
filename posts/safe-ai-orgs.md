@@ -1,6 +1,8 @@
 ---
 title: How do we build organisations that want to build safe AI?
 date: 2021-05-01
+tags:
+  - Reflection
 ---
 
 Much has been written about the dangers of artificial intelligence, and how the intelligent systems we build may sometimes unintentionally drift in alignment from their original goals. However, we seem to focus almost entirely upon an Artificial Intelligence System (AIS) drifting from an organisation's values, and yet little attention is paid to the danger of an organisation's values drifting from alignment with the common good. It is our responsibility when judging risk to plan for bad actors, despite any desire to be optimistic about the human condition. We do not yet know if truly malevolent artificial intelligences will come to exist. We can be confident in the existence of such human beings.

@@ -1,6 +1,9 @@
 ---
 title: Mining Cultural Structure From Copilot
 date: 2021-07-20
+tags:
+  - Experimentation
+  - Coding
 ---
 
 Recently, I joined the [Github Copilot Preview](https://github.com/github/copilot-preview) which has been of great interest to the software and AI community since it's release, promoting [discussion](https://medium.com/young-coder/github-copilot-fatally-flawed-or-the-future-of-software-development-390c30afbc97) and [criticism](https://fosspost.org/github-copilot/) from many corners. In [a recent interview with Yuval Noah Harari and Audrey Tang](https://youtu.be/tRVEY95cI0o?t=875), Yuval mentions something that stuck with me about the decisions embedded within how we program:
