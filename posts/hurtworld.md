@@ -3,6 +3,7 @@ title: Hurtworld - An Open-World Surival Game for PC
 date: 2018-06-04
 tags:
   - GameDev
+permalink: hurtworld
 ---
 Between 2014 to 2018, I worked at an independent games studio called Bankroll as a programmer and game designer. The studio was only between 3 and 5 people in size over the course of the 4 years. We created the open-world multiplayer survival game Hurtworld.
 
