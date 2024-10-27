@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/sn-systems.md",
+                "file": "about.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/sn-systems.md",
+                "file": "about.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "posts/sn-systems.md",
+                "file": "about.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "posts/sn-systems.md"
+                "file": "about.md"
               }
             }
           }
@@ -148,19 +148,22 @@
   },
   "active": "db2b0d5281579a8c",
   "lastOpenFiles": [
+    "posts/mad-maps.md",
+    "about.md",
+    "posts/muzak.md",
+    "posts/media-diversity.md",
+    "README.md",
+    "posts/sn-systems.md",
     "posts/semantic-neurons.md",
     "posts/safe-ai-orgs.md",
     "posts/mary-and-the-memory-implant.md",
     "posts/narlang.md",
-    "posts/sn-systems.md",
     "posts/thompson-trojans.md",
     "posts/voxul.md",
     "posts/utility-utilitarianism.md",
     "egosarefractallycomplex.md",
     "posts/egos-are-bandwidth-membranes.md",
     "posts/egos-are-fractal.md",
-    "about.md",
-    "posts/mad-maps.md",
     "projects.md",
     "posts/uncanny-places.md",
     "posts/the-price-of-space-is-friendship.md",
@@ -171,9 +174,6 @@
     "posts/scp-xxxx-gore.md",
     "posts/scared.md",
     "posts/robyn-renou.md",
-    "posts/rbto.md",
-    "posts/parables.md",
-    "posts/nuclear.md",
     "static/2019_IntersectionTest_1.png",
     "static/SNSystems.png",
     "static/Mori_Uncanny_Valley.svg.png",
