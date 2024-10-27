@@ -26,7 +26,7 @@ Check out some overview videos below:
 
 [Unity Asset Store](https://assetstore.unity.com/packages/tools/terrain/mad-maps-111524)
 
-[Here's the latest build](../static/2018/MadMaps_0_1_4a.unitypackage)
+[Here's the latest build](2018/MadMaps_0_1_4a.unitypackage)
 
 [Git Repository](https://github.com/cowtrix/Mad-Maps)
 

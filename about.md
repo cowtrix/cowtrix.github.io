@@ -17,7 +17,7 @@ Despite having the attention span of a particularly spaced-out hamster, I do man
 If my name's on the credits, I'm taking credit.
 ### [Hurtworld](/hurtworld)
 
-![](/static/hurtworld.jpg)
+![](/hurtworld.jpg)
 
 2014 - 2018
 
@@ -37,7 +37,7 @@ I like making things that make things. When I can, I also like sharing these too
 
 ## [PlayStation Debug Tools](https://www.snsystems.com/)
 
-![](static/SNSystems.png)
+![](SNSystems.png)
 
 Working on Sony's current and next-generation console platform, providing tools to developers including compilers, debuggers, analyzers, and more.
 ### [Mad Maps](/mad-maps)

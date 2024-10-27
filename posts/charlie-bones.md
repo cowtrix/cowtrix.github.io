@@ -7,7 +7,7 @@ tags:
 
 This is my entry for the Global Game Jam 2021! I did it all myself with public-source assets for things like audio and textures, combined with a little voxel engine I've been building.
 
-## [Play it here.](../static/2021/InterdimensionalHelpCentre.zip) 
+## [Play it here.](2021/InterdimensionalHelpCentre.zip) 
 
 Just download the .zip file, extract is somewhere, and run the executable file.
 
