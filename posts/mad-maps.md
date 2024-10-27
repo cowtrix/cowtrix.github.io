@@ -4,6 +4,7 @@ date: 2018-02-07
 tags:
   - GameDev
   - Coding
+permalink: mad-maps
 ---
 
 Mad Maps was a set of tools I built in my time at Bankroll Studios in the period of 2017-2018 and then went on to sell on the Unity Asset Store as a standalone product for a period. 
