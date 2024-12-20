@@ -3,7 +3,7 @@ title: Mary and the Black and White Memory Implant
 date: 2021-02-20
 tags:
   - Reflection
-  - Philosopy
+  - Philosophy
 ---
 
 In 1982, Frank Jackson published an article entitled "Epiphenomenal Qualia" in Philosophical Quarterly 32:127. Within it, he outlined a thought experiment known as *"Mary's Room"*, or *"Mary and the Black-and-White Room"*. [[1]](http://www.philosophy-index.com/jackson/marys-room/)

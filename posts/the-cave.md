@@ -3,7 +3,7 @@ title: The Cave is Inescapable
 date: 2021-02-23
 tags:
   - Reflection
-  - Philosopy
+  - Philosophy
 ---
 
 [Plato's Cave](https://en.wikipedia.org/wiki/Allegory_of_the_cave) is a famous allegory about perception and reality. The allegory consists, loosely, of the following:

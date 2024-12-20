@@ -3,7 +3,7 @@ title: The Universe is the Only Object
 date: 2024-11-02
 tags:
   - Reflection
-  - Philosopy
+  - Philosophy
 ---
 What is an object? One could kick the can down the road a little and respond, well it's a *thing*. But what then is a "thing"? 
 

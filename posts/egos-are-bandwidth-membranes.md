@@ -3,7 +3,7 @@ title: Egos Are Bandwidth Membranes
 date: 2021-05-10
 tags:
   - Reflection
-  - Philosopy
+  - Philosophy
 ---
 
 What do I mean when I say the word "ego"? Previously I've said that I mean an intelligent entity who possesses continuous agency within the world, a stateful sense of self, and preferences for the future. Human beings normatively value this form of intelligence highly, because we are egos ourselves. However, these 3 properties are only measurable through inferring internal state from external actions of the entity. They are subjective experiences of the entity which manifest externally in measurable ways, but with only this definition we lack an understanding of its material structure and physical limitations.

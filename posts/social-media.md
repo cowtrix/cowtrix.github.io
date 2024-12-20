@@ -3,7 +3,7 @@ title: Social Media Is Breaking Your Brain
 date: 2021-09-28
 tags:
   - Reflection
-  - Philosopy
+  - Philosophy
 ---
 
 They say that power corrupts. Usually, the addendum is that absolute power corrupts absolutely. But what about little morsels of power, meted out to maximize dopamine production by an algorithmically-driven automated system, to brains increasingly trained to act socially within Skinner-box facades of connection?

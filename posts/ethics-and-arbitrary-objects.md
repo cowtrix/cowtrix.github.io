@@ -3,7 +3,7 @@ title: Ethics & Arbitrary Objects
 date: 2021-02-25
 tags:
   - Reflection
-  - Philosopy
+  - Philosophy
 ---
 
 There are many abstract, mental systems that we build throughout our lives. We build systems firstly in order to interpret our memories and sensory input into an internal simulation of "reality", our experience up to that moment. Secondly, we then run simulations of the future and predict their probability. These systems are abstract objects that exist within your mind that define your experience within the world.
