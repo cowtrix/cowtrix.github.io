@@ -1,0 +1,38 @@
+---
+title: The People We Build
+date: 2025-02-15
+tags:
+  - Philosophy
+  - Reflection
+---
+What is it to know someone? It is to predict their responses. It is to understand the extent of their knowledge. It is to think about their thinking. It is, in other words, the ability to run a simulation of that person within your own mind, a simulacrum of the person that lives within us. As a social species, we've gotten quite good at doing this at both a conscious and subconscious level. But the map is not the territory. Our internal model represents a distinctly separate thing from the person that it tries to predict. They, after all, were not the creators of this model - only its muse. I have been thinking a lot about this - the people we build - and what it reveals about us.
+# Theories of Mind
+
+You are a child. The cookie jar is there, your hand within it reaching for a forbidden treat. What will you parents think if they catch you? They might be angry. They might take the cookies away forever. This is perhaps the first time you have run a simulation of your parents, and it is the first step in building a theory of mind: a structure within your own consciousness dedicated to the simulation of other consciousnesses.
+
+As we grow older we develop this skill, if we pay attention to it and are socialized to do so. It is an essential part of navigating social relationships. We might transform our language into that of 'charisma' or 'emotional intelligence', or any other such measure of our skill in simulating others. Fundamentally the process remains the same - input produces prediction - and rather our models improve as we experience the breadth of the human condition.
+
+As I have gone into depth about before, the true simulation of other minds in a way that is simultaneously accurate, generalised and abstracted [may be a doomed endeavour](/egos-are-fractally-complex), and certainly not when all humans have about the same level of compute to play around with to run these simulations - not to mention the fact that you have to run and store many of these. Even at their deepest and most complex, your models of other people must be shallow. Acknowledging this fundamental limitation is an important thing, I think. It reminds us that our simulations are just that - imperfect guesses from a lazy organ - and that perhaps we should ingest their predictions with that in mind.
+
+So, with each person we meet, we begin to build anew a model of their mind within our own. Such a thing is grown over time as more experience is fed into it, expanding in complexity. We may have simulations of such long duration, of such deep understanding, of such exacting accuracy, that they grow into something permanent in ourselves. I wonder if these models are what is truly left of us when we die - ghosts haunting the minds of those who simulated us.
+# The Ur-stranger
+
+You meet many people, many who you never really get to know, and yet you maintain this ability to simulate these other minds to some extent. Your accuracy may vary wildly, but there is still something happening there. It must at best be a heuristic.
+
+I posit that there exists a more fundamental model-of-the-other within your mind - what I will refer to as the 'Ur-stranger'. This is the model that you reach for when ignorant of the true nature of another, your default, and I think this default can reveal an enormous amount about you. I would claim that a flawed Ur-stranger process is responsible for a lot of the cruelty that we wreak against each other.
+
+How often have you been surprised at someone's revelation, one which changed your view of them? How often have you felt like your revelation has shifted another's perspective of you? We can almost feel ourselves and see in others the gears grinding away to update our inner simulation of the other from the general starting point of the Ur-stranger towards some more specific abstraction. 
+
+We often say that first impressions matter disproportionately. But why is this the case? Perhaps it is because for many people, their Ur-stranger quickly sets in place and becomes very difficult to shift. In some cases quick judgement may be justified, but in others we end up with an inaccurate simulation of how that person might act in the future. But the information we receive to update our model, from observation and direction interaction, does not arrive in such a cadence. 
+
+The Ur-stranger represents something more than a default template that you slot in when presented with a void of familiarity. It perhaps represents a look into how you view the human condition. I couldn't deny that if a stranger walks up to me on the street and engaged with me, I would probably assume that they wanted something from me beyond a casual chat. This reveals my Ur-stranger to be both transactional and manipulative. It's easy for me to hide beyond self-platitudes about how people are fundamentally good, but the Ur-stranger forces me to recognise that my perspective is not quite that simple.
+# The You Outside Yourself
+The consequence of this is perhaps most deeply felt in our social relationships. On first meeting, you may merely remember someone as a collection of quick parameters to plug into your Ur-stranger. This person is a doctor, they are tall, they are vegetarian - simple facts that quickly shape the internal model without really forming a dedicated mental space. As familiarity grows, so too does the level of mental resources we are able to dedicate. Eventually, such a model persists regardless of its source's presence.
+
+This of course is a limited process. We do not have limitless computational or storage capacity for keeping these models ticking away. After a time, we may put them into hibernation if they are not triggered by social need and eventually our brains will use the resources for something else. [Dunbar's number](https://en.wikipedia.org/wiki/Dunbar's_number) could be thought of as an manifestation of this limitation.
+
+This also means that there is a lot of brain-matter outside of your head that is arguably still *you*, in some sense of the word. We certainly tend to value what the external, social self. We want others to like us, to think of us as good people, or to more generally build a simulacrum that is in line with how we want to be perceived. Who you are, in the inescapably social sense of the question, is defined not just by your own mind but by the simulations built by others. It is this too which is perhaps our only true legacy after death, this mosaic-ghost built by all who knew us.
+# The People We Build
+I haven't used the word empathy yet. It's an important one. How could one empathise without first imagining? And how could one imagine without some formulation of what a different mind can look like? Despite my over-intellectualization of the matter, I believe that this model-forming is a distinctly built-in part of our species. I am not as confident as to whether empathy is. Ultimately, I think the formation of a robust empathy - that is not just the ability to imagine the mind of those like us, but those too entirely different - is a practice that can only be made proficient through ingesting both a wide and deep array of the human condition. We are a species simultaneously defined by our ability to empathise, and by our habit of choosing not to.
+
+But I have a hopeful view. We do not exist alone. If we choose to let them, the noble ghosts of those we love join us in this isolating skull. And if we build them in a fitting way, if we truly learn to know someone, we do a beautiful justice to that mind we seek to represent.
