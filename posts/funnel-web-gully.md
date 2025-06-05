@@ -94,7 +94,7 @@ No crawling this time. We ripped and tore as fast as we could through the webs, 
 
 Pru got her hero moment, like she always wanted. Said she always wanted to go out looking cool, and she fucking nailed it. Took out another bluebottle and three fizzers with the radshield, and took care of a dozen poppers with the antidrone that would’ve punched all of our tickets. But that’s the thing. Always more poppers than you’ve got anti. Got her right on the temple.
 
-Serge just kept pushing me along, taking shots at whizzers as they dived at us. I didn’t realise how bad he was cut up until he told me to keep going without him. Didn’t matter in the end - a shell hit him dead on and cut him up once and for all. Seems cursed to call it a lucky thing, but it sent me clean off the gully hill and crashing down with enough speed to tear through the webs. Smacked my head on something, and lights out.
+Serge just kept pushing me along, taking shots at fizzers as they dived at us. I didn’t realise how bad he was cut up until he told me to keep going without him. Didn’t matter in the end - a shell hit him dead on and cut him up once and for all. Seems cursed to call it a lucky thing, but it sent me clean off the gully hill and crashing down with enough speed to tear through the webs. Smacked my head on something, and lights out.
 
 It turns out there’s a creek down there, right at the bottom. It's spoiled with the runoff of the dead of course, nothing still living down there. But the creek flows a little. Woke up almost drowning. Crawled for a day through that damn septic water, and almost died from an infected ass because of it.
 
