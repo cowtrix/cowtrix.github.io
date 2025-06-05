@@ -12,11 +12,11 @@ Our point, a young guy called Tony, melted a path through the webbing with a bac
 
 Behind Tony was Pru. I think she used to be a nurse, but we joke that she was a pack horse in a past life. She carried the antidrone pack - by far the heaviest - like it was a hiking daypack. And that didn’t even include the radshield. That was a new addition, a strange hybrid of medieval kite shield and personal computer. She’d painted our company sigil - the Swooping Magpies - across it against the advice of Serge. “You want to attach a flare as well maybe? Make sure they see?”
 
-It was me then, and Serge behind me bringing up the rear. He was French, and a prick, and our squad leader. He had moved here decades ago before the war, and his accent swung wildly between occa drawl and musical clumsiness. I saw him reach out and pat the back of my neck.
+It was me then, and Serge behind me bringing up the rear. He was French, and a prick, and our squad leader. He had moved here decades ago before the war, and his accent swung wildly between occa drawl and musical clumsiness. I saw him reach out and pat the back of my neck. I could barely see the path in front me, overlaid behind the drone’s output in my helmet. 
 
 “Jockey, any creeps?”
 
-I could see myself shake my helmet as I flicked the drone between infrared and ultraviolet. In truth, you couldn’t see shit through the webs, even twenty metres up. I could barely see the path in front me, overlaid like a ghost on the drone’s output. I couldn’t be too angry, considering how many I’d added myself. Even now another tendril of fibre, almost as light as air, trickled out from my pack and up to the observer above. The gully was so thick with signal jammers that it was the only way.
+I could see myself shake my helmet as I flicked the drone between infrared and ultraviolet. In truth, you couldn’t see shit through the webs, even twenty metres up. I couldn’t be too angry considering how many tendrils I’d added myself. Even now another tendril of fibre, almost as light as air, trickled out from my pack and up to the observer above. The gully was so thick with signal jammers that it was the only way.
 
 “No sign of Erik?” That was the other squad leader. I think Serge wanted it to sound like he was concerned, but I knew him enough to know he was competitive. This hit came with a lot of prestige. Medals and parades and shit.
 
@@ -40,7 +40,7 @@ Serge nodded. “Alright. The dugout we just passed is our best bet.”
 
 “Shut the fuck up Tony and watch your corner. We can deal with a bluebottle probing us, we can’t if it’s right on our ass.”
 
-I remembered passing the dugout the first time and thanking my luck we weren’t on a clearing mission. Funny how that works. Serge had me send the observer into the first room and clear it, but that didn’t mean anything. The first few rooms were always just welcoming parlours. When we flooded in, it all looked a little too clean. Piss bottles and MRE wrappers and bloody bandages and all other kinds of crap, but a path through it that looked like it had yet to be shaken loose by shelling. No bodies either.
+I remembered passing the dugout the first time and thanking my stars we weren’t on a clearing mission. Funny how that works. Serge had me send the observer into the first room and clear it, but that didn’t mean anything. The first few rooms were always just welcoming parlours. When we flooded in, it all looked a little too clean. Piss bottles and MRE wrappers and bloody bandages and all other kinds of crap, but a path through it that looked like it had yet to be shaken loose by shelling. No bodies either.
 
 That was enough for us to stack up butt-to-nuts and hug the wall, slinking through to the next chamber after the observer had taken a look. I didn’t have time to do a proper clear, and I couldn’t leave another observer at the entrance to make sure we weren’t wrapped on. We had no choice but to plunge deeper, deep enough to avoid the bluebottle’s detection, and hope that I didn’t miss some creep taking a nap underneath a thermal blanket.
 
