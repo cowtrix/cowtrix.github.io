@@ -84,7 +84,7 @@ Close enough to hear the uproar, the panic, the shouts.
 
 My squad had started moving the moment they’d heard it. Serge grabbed me and ripped the helmet off. “Allons-y, Jockey.”
 
-The moment we threw ourselves out of the cocoon, a bluebottle hit us with a spotlight and screamed rockets out of the sky. Bangs came from all around, a chunk of shrapnel stuck me in the ass, and I screamed right back. I lay there stunned, cradling my bleeding ass, and watched Pru try out the radshield for the first time. She crouched down behind the emblem of the Swooping Magpies and pointed it right at the bluebottle. It wobbled in the air for a moment, its lights dimming, and then fell like a pile of bricks almost on top of them.
+The moment we threw ourselves out of the cocoon, a bluebottle hit us with a spotlight and screamed rockets out of the sky. Bangs came from all around, a chunk of shrapnel stuck me in the ass, and I screamed right back. I lay there stunned, cradling my bleeding ass, and watched Pru try out the radshield for the first time. She crouched down behind the emblem of the Swooping Magpies and pointed it right at the bluebottle. It wobbled in the air for a moment, its lights dimming, and then fell like a pile of bricks almost on top of us.
 
 “Allons-y, allons-y, go go! Tony’s gone.”
 
