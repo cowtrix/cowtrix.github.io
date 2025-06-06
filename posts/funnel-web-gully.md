@@ -12,7 +12,7 @@ Our point, a young guy called Tony, melted a path through the webbing with a bac
 
 Behind Tony was Pru. I think she used to be a nurse, but we joke that she was a pack horse in a past life. She carried the antidrone pack - by far the heaviest - like it was a hiking daypack. And that didn’t even include the radshield. That was a new addition, a strange hybrid of medieval kite shield and personal computer. She’d painted our company sigil - the Swooping Magpies - across it against the advice of Serge. “You want to attach a flare as well maybe? Make sure they see?”
 
-It was me then, and Serge behind me bringing up the rear. He was French, and a prick, and our squad leader. He had moved here decades ago before the war, and his accent swung wildly between occa drawl and musical clumsiness. I saw him reach out and pat the back of my neck. I could barely see the path in front me, overlaid behind the drone’s output in my helmet. 
+It was me then, and Serge behind me bringing up the rear. He was French, and a prick, and our squad leader. He had moved here decades ago before the war, and his accent swung wildly between occa drawl and musical clumsiness. I saw him reach out and pat the back of my neck. I could barely see the path in front me, overlaid behind the drone’s output in my helmet.
 
 “Jockey, any creeps?”
 
@@ -46,9 +46,9 @@ That was enough for us to stack up butt-to-nuts and hug the wall, slinking throu
 
 I fucking hated clearing dugouts, and this was the worst kind of clear - a rushed one. I couldn’t see myself from the drone and the helmet overlay was useless in the dark, so Serge had to drag me from room to room while I tried to keep the observer from crashing.
 
-We’d only reached the fourth room when the first boom came from above, sending dust streaming down the walls. No doubt the bluebottle. But not on top of us. Randomly shelling around our tracks maybe, or perhaps finding some other unfortunate soul.
+We’d only reached the fourth room when the first thud came from above, sending dust streaming down the walls. No doubt the bluebottle. But not on top of us. Randomly shelling around our tracks maybe, or perhaps finding some other unfortunate soul.
 
-It turned out to be a lucky thing. The shelling woke the three creeps in the next and final room, suddenly visible to the observer as they wiggled to free themselves from their shielded sleeping bags. They barely had time to grab their guns before grenades sent them back to sleep. I couldn’t fault them for letting their discipline falter and not having anyone on watch. It looked like they’d been in here for months, cut off and alone, too scared to go out. They probably didn’t even know they’d won.
+It turned out to be a lucky thing. The sound woke the three creeps in the next and final room, suddenly visible to the observer as they wiggled to free themselves from their shielded sleeping bags. They barely had time to grab their guns before grenades sent them back to sleep. I couldn’t fault them for letting their discipline falter and not having anyone on watch. It looked like they’d been in here for months, cut off and alone, too scared to go out. They probably didn’t even know they’d won.
 
 That was as far as the dugout went, but it was pretty deep. The red clay of the gully was perfect for making these deathtraps. We made a kind of curtain out of what was left of the sleeping bags to cover the door, and tried to shift the creeps to one side. Couldn’t put them in the room we’d come from - still too warm.
 
@@ -66,13 +66,13 @@ And then we crawled on our stomachs for the last hour, becoming slowly tangled u
 
 We didn’t need to say it. The stage was only two hundred metres away on the other side of that web. They wanted a good backdrop of the strange new battlefield of the future, something shiny for the news back home. We’d surely give it to them.
 
-There was just enough clear space for the four of us to curl up in the underbrush. Tony draped a thermal blanket above us and we hunkered down to wait, breathing down into our jackets and EM flatlined. This was the gambit. We had no shot outside the drone shield that followed old General Creep everywhere he went. We needed to be close enough that the pop would be over before they knew it was happening. It was closer than any of us had ever been. That’s how much it meant.
+There was just enough clear space for the four of us to curl up in the underbrush. Tony draped a thermal blanket above us and we hunkered down to wait, breathing down into our jackets and not making a sound. This was the gambit. We had no shot outside the drone shield that followed old General Creep everywhere he went. We needed to be close enough that the pop would be over before they knew it was happening. It was closer than any of us had ever been. That’s how much it meant.
 
 We heard trucks, and voices, and the whine of creep drones. But the cocoon of fibres around us was good, it was thick enough to keep the heat in a little, and the creeps didn’t see our hearts beating out of our chests.
 
 We knew it was time from the music. Nobody plays music for grunts, let alone a live band. Serge gave me a grim nod and I put on my helmet. No observer this time. This time Tony took out the Magpie. Beauty, it was. Work of art. Not much more than a shotgun shell strapped to an almost completely silent drone the size of my fist. Nothing but the best (of what’s left) for this little punt. Tony cut a hole just big enough to poke it through, and I was off.
 
-Easy does it. There was still a maze of tripwires to fly through. But Maggie did good, flew like a dream, and the fibre spool unwound ever so quietly from my pack next to me. I crept closer and closer through the webs, slow and smooth.
+Easy does it. There was still a maze of fibres to fly through. But Maggie did good, flew like a dream, and the fibre spool unwound ever so quietly from my pack next to me. I crept closer and closer through the webs, slow and smooth.
 
 The stage was tacky, covered from top to bottom with creep colours and flags and cameras. Not that I thought our brass would put on some kind of audiovisual masterpiece for their parade, if we survived this. But it all seemed a bit haphazard, as if the creeps who had to throw all this together had been just as sleep deprived as we were.
 
@@ -84,7 +84,7 @@ Close enough to hear the uproar, the panic, the shouts.
 
 My squad had started moving the moment they’d heard it. Serge grabbed me and ripped the helmet off. “Allons-y, Jockey.”
 
-The moment we threw ourselves out of the cocoon, a bluebottle hit us with a spotlight and screamed rockets out of the sky. Bangs came from all around, a chunk of shrapnel stuck me in the ass, and I screamed right back. I lay there stunned, cradling my bleeding ass, and watched Pru try out the radshield for the first time. She crouched down behind the emblem of the Swooping Magpies and pointed it right at the bluebottle. It wobbled in the air for a moment, its lights dimming, and then fell like a pile of bricks almost on top of us.
+Only a few moments after we threw ourselves out of the cocoon, a bluebottle hit us with a spotlight and screamed rockets out of the sky. Bangs came from all around, a chunk of shrapnel stuck me in the ass, and I screamed right back. I lay there stunned, cradling my bleeding ass, and watched Pru try out the radshield for the first time. She crouched down behind the emblem of the Swooping Magpies, its hardware whirring to life, and pointed it right at the drone. The bluebottle wobbled in the air for a moment, its lights dimming, and then fell like a pile of bricks almost on top of us.
 
 “Allons-y, allons-y, go go! Tony’s gone.”
 
@@ -92,7 +92,7 @@ I looked to see Tony behind me. He’d probably saved the rest of my ass with hi
 
 No crawling this time. We ripped and tore as fast as we could through the webs, and a buzzing grew behind us like we’d stirred a hornet’s nest. This was the bit none of us really expected to live through.
 
-Pru got her hero moment, like she always wanted. Said she always wanted to go out looking cool, and she fucking nailed it. Took out another bluebottle and three fizzers with the radshield, and took care of a dozen poppers with the antidrone that would’ve punched all of our tickets. But that’s the thing. Always more poppers than you’ve got anti. Got her right on the temple.
+Pru got her hero moment, like she always wanted. Said she always wanted to go out looking cool, and she fucking nailed it. Took out another bluebottle and three fizzers with the radshield while we ran, and took care of a dozen poppers with the antidrone that would’ve punched all of our tickets. But that’s the thing. Always more poppers than you’ve got anti. Got her right on the temple.
 
 Serge just kept pushing me along, taking shots at fizzers as they dived at us. I didn’t realise how bad he was cut up until he told me to keep going without him. Didn’t matter in the end - a shell hit him dead on and cut him up once and for all. Seems cursed to call it a lucky thing, but it sent me clean off the gully hill and crashing down with enough speed to tear through the webs. Smacked my head on something, and lights out.
 
