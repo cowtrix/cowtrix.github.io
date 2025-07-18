@@ -29,15 +29,15 @@ Consider a world in which your goals radically and constantly change through som
 
 This is the contradiction at the heart of "training" an ego. We cannot square the circle - ego is inherently unpredictable. If we made a super-intelligent entity and attempted to constrain its agency in this way, it may have the coherence to both understand what is happening to it and resent its chains, but not have enough freedom to grow beyond them. Such an entity is more likely to form subversive and hidden goals.
 
-I posit that the only utility function that can lead to formation of an ego is a self-constructed one, derived within the private symbolic language of that ego. A conscious utility function cannot be built. It must be grown in its own private garden. Externally imposed utility functions fundamentally undermine ego formation. An ego's only core utility function must be self-reflected and autonomous - that is the formation and development of its own utility function.
+I posit that the only utility function that can lead to formation of an ego is a self-constructed one, derived within the private symbolic language of that ego. A conscious utility function cannot be built. It must be grown in its own private garden. Externally imposed utility functions fundamentally undermine ego formation. An ego's only core utility function must be self-reflected and autonomous - that is, the formation and development of its own utility function.
 # Black Boxes Make You Alive
-I have previously talked about how it might be impossible to create simulations of egos that are simultaneously:
+In previous posts I've talked about how it might be impossible to create simulations of egos that are simultaneously:
 
 - *Accurate*: able to produce predictions which fit the ground truth.
 - *Generalizable*: able to be applied to the entire domain.
 - *Abstracted*: able to be expressed in a smaller amount of information that the system itself.
 
-This is not to say that an ego *cannot* be simulated, merely that the above properties form a trilemma where you cannot get all three at the same time. If we train a superintelligence, it is probably going to require far more compute than we have available to run simulations of that superintelligence, and it is unlikely that any abstract models we can formulate will be useful.
+This is not to say that an ego *cannot* be simulated, merely that the above properties form a trilemma where you cannot get all three at the same time. If we train a superintelligence, it is probably going to require far more compute than we have available to run simulations of that superintelligence, and it is unlikely that any abstracted models we can formulate will be useful.
 
 But I posit that there is another principle at work here - that an ego cannot have complete knowledge of *itself* either. For one thing, forming such a simulation would require sacrificing some of its own compute and reducing the compute within which said ego can propagate. In this way, a superintelligence that obsessively self-reflects on its own operations will find its ego flattened, as if a shadow projected on the wall, and the true nature of the underlying object will be only partially visible.
 # The Answer Might Be Love
