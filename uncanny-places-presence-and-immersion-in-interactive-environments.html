@@ -1,0 +1,70 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=yes, initial-scale=1.0, maximum-scale=3.0, minimum-scale=1.0">
+    <meta http-equiv="Content-Language" content="en">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+    <title>Uncanny Places - Presence and Immersion In Interactive Environments</title>
+    <meta name="description" content="Letters to myself."/>
+    <meta name="keywords" content="blog,programming,philosophy,game development"/>
+
+    <link rel="stylesheet"
+          href="https://fonts.googleapis.com/css?family=Alegreya:400,400i|Lato:400,400i,700,900|Roboto+Mono:400,300">
+    <link rel="stylesheet"
+          href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.5.1/styles/shades-of-purple.min.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.5.1/highlight.min.js"></script>
+
+    <link rel="stylesheet" href="/css/normalize.css"/>
+    <link rel="stylesheet" href="/css/theme.css"/>
+</head>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-N01RTZNKXF"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-N01RTZNKXF');
+</script>
+
+<body>
+<nav class="nav">
+    <div class="nav__left">
+        <a href="/">Home</a>
+        <a href="/about">About</a>
+    </div>
+    <div class="nav__right">
+        <a target="_blank" href="https://github.com/cowtrix" class="link-github">GitHub</a>
+        <a href="mailto:seandgfinnegan@gmail.com" class="link-email">Email</a>
+    </div>
+</nav>
+
+<article class="mar-b-7">
+    <header class="text-center">
+        <time class="mar-b-6" datetime="Thu, November 23, 2023">Thu, November 23, 2023</time>
+        <h1 class="mar-b-7">Uncanny Places - Presence and Immersion In Interactive Environments</h1>
+        <span class="post-tags">Tags: Reflection, GameDev</span>
+    </header>
+    <p>We're familiar with the concept of the <a href="https://en.wikipedia.org/wiki/Uncanny_valley">Uncanny Valley</a> as applied to human beings. In brief, there is a proposed axis of realism in the representation of a human being, from highly abstract to completely realistic. Along that axis, people generally have different emotional reactions. We can feel attached to abstract cartoon characters and consider them real beings, but as the likeness grows we reach this "uncanny valley", in which an aversion or sense of wrongness overwhelms any possible emotional connection the the thing. </p>
+<p><img src="Mori_Uncanny_Valley.svg.png" alt="A diagram of the uncanny valley. The <code>x</code> axis represents closeness to a real human being, with the <code>y</code> axis representing the emotional reaction." /></p>
+<p>I think this concept is immensely useful when applied to level design within interactive environments, with some slight tweaks. Our <code>x</code> axis is still basically going from "Abstracted" on the left to "Realistic" to the right, but let's instead call these "Emotive" and "Simulatory".</p>
+<p>An emotive place is, unsurprisingly, one that connects on an emotional level to the player. Games like <a href="https://en.wikipedia.org/wiki/What_Remains_of_Edith_Finch">What Remains of Edith Finch</a> and <a href="https://en.wikipedia.org/wiki/Gone_Home">Gone Home</a> are filled with these places. When you interact with objects in these places, story is revealed and emotional beats are hit. The place is not a representation of a real, physical collection of objects within the world, but rather a subjective perspective of it. The rules of an emotive place are unclear, with events unfolding along narrative lines and internally logical explanations of those events sometimes being unclear.</p>
+<p>A simulatory place is, in contrast, one that attempts to produce a simulacrum of some aspect of reality. I think the "aspect" part is important here. Games like <a href="https://en.wikipedia.org/wiki/Minecraft">Minecraft</a>, <a href="https://en.wikipedia.org/wiki/Satisfactory">Satisfactory</a>, or <a href="https://en.wikipedia.org/wiki/Dwarf_Fortress">Dwarf Fortress</a> create fully simulated places in which systems interact to produce interesting emergent behaviour. The rules are consistent and coherent, driving the simulation forward with or without the input of the player. In this way it is tries to produce an objective world, one that has no conception of the emotional state of the player. Players absolutely still have emotional attachments and experiences in a simulatory place.</p>
+<p>Some of you more bibliophilic punters might have noted how similar this is to "hard" and "soft" in the context of speculative fiction, e.g. "hard science-fiction" or "soft magic system". These labels refer to how clear the rules of a world are. Gandalf from Lord of the Rings is a classic example of a soft magic system - it's unclear what the full extent of his powers are and what rules that power follows. Hard science fiction tries to maintain internal scientific consistency, especially around scientific ideas and the representation of the universe. Arthur C. Clarke, Larry Niven or Andy Weir are classic examples of this genre. I hope the parallels to the Emotive-Simulatory lens are clear.</p>
+<p>Recently, I play-tested a first-person game that took place within an apartment. This was a narrative-based puzzle game, which was trying to tell the subjective story of a character undergoing a series of life events. I was struck by how the level didn't really feel like a real place, and it took me a while of walking around interacting with everything I could to figure out why. As you explore the apartment, more of the story is revealed through the classic discarded notes and narration. You could open cupboards and drawers, wardrobes, windows and doors. And then I interacted with the microwave, the door clicked open and it swung open, and I realised why it felt so unreal. A microwave is a functional object - we take things out of our fridges or cupboards, we put them in, and then we eat them to fulfill what is fundamentally a systemic need, our need to eat. This place had <em>just enough</em> simulatory interaction to clash with the emotional place they were trying to build. If you're going to make a working microwave, you start down a rabbit hole of needing to apply the same simulatory rigour to the rest of your world or risk creating this strange quality. Maybe instead, when you interact with the microwave, you get an emotional beat ("My housemate keeps nuking fish! Yuck!").</p>
+<p>So I guess the takeaway is this: try to identify if you are attempting to produce a more Emotive or a more Simulatory space, and be careful that you are consistent in that across the places you produce. </p>
+</article>
+
+<footer class="text-center mar-tb-6">
+    © 2025 Sean Finnegan, unless otherwise stated.
+</footer>
+
+<script>hljs.highlightAll();</script>
+</body>
+</html>
+
