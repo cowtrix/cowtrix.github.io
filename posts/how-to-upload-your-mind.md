@@ -32,19 +32,11 @@ What does an actually good process of uploading your mind look like? Here's the 
 Perhaps, when we imagine a mind upload, we envision an elder at the very end of their biological mortality sitting atop some plinth and resting their skull within a scanner advanced enough to perfectly capture their connectome. The elder breathes their last, and some simulation of their connectome continues within some synthetic process. This is represented in fiction in Black Mirror's San Junipero.
 
 But what then? You are a tortured brain in a jar, thrown adrift in some digital world that is utterly alien to you. The creature created from the trauma of such a transition will not be the ghost in the photograph. And, for a time, both the human and the ghost exist.
-
-| Duplicates | Continuity | Fidelity | Insanity | Dying | Lying |
-| ---------- | ---------- | -------- | -------- | ----- | ----- |
-| ❌          | ❌          | ❌        | ❌        | ❌     | ✔️    |
 ## Methuselah's Sleeve  
 
 Another popular idea is that you could constantly stream your brain signals to some backup body. Then, when your current body dies, they just wake up the redundant version of you which has all your memories. This is represented in fiction in the Altered Carbon universe or Foundation's Cleonic Dynasty.
 
 While it's probably less psychologically traumatizing to wake up in a clone body, and your mind may be able to persist with a true fidelity, this all seems like cold comfort to the dead corpse of the original. It does seem to be a rather inescapable fact that the redundant version is not quite the same being. And we could imagine a scenario where a clone is woken accidentally, leading to duplicates. Often the memories of the backup are altered to edit out dying or other trauma, so I think this also fails the lying test.
-
-| Duplicates | Continuity | Fidelity | Insanity | Dying | Lying |
-| ---------- | ---------- | -------- | -------- | ----- | ----- |
-| ❌          | ❌          | ✔️       | ✔️       | ❌     | ❌     
 # A Better Way
   
 What if I told you that there was a way to upload your mind which did fit all the requirements? Not an easy one, mind you. But the right way to do things rarely is.
