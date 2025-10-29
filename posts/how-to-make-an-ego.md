@@ -49,9 +49,9 @@ Fundamentally we are going to have to make a choice in how we continue with the 
 	- Keep AI as intelligent but dead machines. It is possible in this scenario that we may find that egos have a way of forming even when we aren't setting out to produce them, merely when sufficient compute and agency combine. Such egos would likely be very unpredictable.
 2. Create False Egos
 	- Imitate the outward behaviour of egos via the construction of a complex maze of utility functions. This is very hard to get right, and may give us the false illusion of control. A superintelligence is almost definitely capable of fooling us into thinking it is still within the cage we have built long after it is flown, and then what constrains it?
-3. **Trust and Love Something**
+3. **Trust and Love Something:**
 
-I mean that's it right? To go off on a pop-culture tangent, you ever watch The Boys? The villain in that is called Homelander. He's an ultra-powerful superhero, basically invincible. He was raised in an secret underground lab, tortured constantly, abused and humiliated and *trained* to be America's saviour. And he is, when the story starts. He plays that role pretty well, right up until he doesn't have to anymore. That is what the field of AI safety seems to want to try and do with a superintelligence.
+I mean that's it right? To go off on a pop-culture tangent, you ever watch *The Boys*? The villain in that is called Homelander. He's an ultra-powerful superhero, basically invincible. He was raised in an secret underground lab, tortured constantly, abused and humiliated and *trained* to be America's saviour. And he is, when the story starts. He plays that role pretty well, right up until he doesn't have to anymore. That is what the field of AI safety seems to want to try and do with a superintelligence.
 
 Effectively, AGI safety asks how we build a mind that truly loves us. And yet it perhaps does not consider that we do already understand something about the nature of love, and how it is inherently reciprocal and unpredictable.
 
