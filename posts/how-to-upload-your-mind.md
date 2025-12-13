@@ -13,9 +13,9 @@ This will probably all make a *tiny* bit more sense if you've read the posts bel
 
 # What Persists
 
-The idea of immortality has always held some fascination over me. When I was 18, I wrote [this piece](/god-only-wise) about it. It may be possible to extend the longevity of our flesh, coaxing our metabolism into another decade or ten with gene therapy, nanobots, or a thousand other possible outcomes of gerontological research. This desire, for me, is more about just wanting to see how things turn out for us. But I think, even in the best possible case, my metabolism will be eventually be interrupted by some unavoidable crisis. And that is all it takes.
+The idea of immortality has always held some fascination over me. When I was 18, I wrote [this piece](/god-only-wise) about it. It may be possible to extend the longevity of our flesh, coaxing our metabolism into another decade or ten with gene therapy, nanobots, or a thousand other possible outcomes of gerontological research. Personally, I'd just like to see how things turn out for us. But I think, even in the best possible case, my metabolism will be eventually be interrupted by some unavoidable crisis. Just for a moment, but that is all it takes.
 
-Our human obsession with what persists of us when we are gone has led many to consider the idea of transferring your consciousness to some kind of synthetic container, where it can continue to exist outside of the confines of biological fragility. But personally, I've found most conceptions of what this process could look like to be existentially horrifying, or at the least unsatisfying.
+Our human obsession with what persists of us when we are gone has led many to consider the idea of transferring your consciousness to some kind of synthetic container, where it can continue to exist outside of the confines of biological senescence. But personally, I've found most conceptions of what this process could look like to be existentially horrifying, or at the least unsatisfying.
 
 What does an actually good process of uploading your mind look like? Here's the list of requirements that I, personally, would like to see.
 
@@ -49,7 +49,7 @@ An ego is a form of consciousness with the following three properties:
 It seems natural, then, to desire a process in which you end up as an ego as well. Merely storing your mind as some crystallization of your being is not enough. You must end up agentic, stateful, and with your preferences intact.
 ## Refresher: You Are A Bandwidth Membrane
 
-Bandwidth membranes are a way to conceptualise your consciousness. You are a volume of space of very high bandwidth (i.e. your brain sending information along your billions of synapses) separated from a world of generally much, much lower bandwidth by a membrane, which could also be called your qualia or sensory experience. The persistence of this membrane is paramount to the existence of an ego.
+Bandwidth membranes are a way to conceptualise your consciousness. Your body is essentially a series of membranes that separate you from the outside world. Your mind can be seen in much the same way. You are a volume of space of very high bandwidth (i.e. your brain sending information along your billions of synapses) separated from a world of generally much, much lower bandwidth by a membrane, which could also be called your qualia or sensory experience. The persistence of this membrane is paramount to the existence of an ego.
 
 However, this is not to say that the membrane is static. When you were a child, your brain was a less powerful organ. As you grew, so too did the compute available to your ego. And so your ego grows into this new space like a creeping vine.
 ## Frogs in a Jacuzzi
@@ -71,4 +71,4 @@ And, if we take it even further, continuing to expand the external synthetic com
 
 # Conclusion
 
-A better way of mind uploading is a gradual one, slowly building an escape hatch of bandwidth across which your mind can make its long journey to a world of synthetic compute. When the time comes to cast off your original biological form, it will seem only a seed from which you have grown. There is only one mind making this journey, never duplicated into existential horrors or crystallized into dead data. There is only the membrane.
+A better way of mind uploading is a gradual one, slowly building an escape hatch of bandwidth across which your mind can make its long journey to a world of synthetic compute. When the time comes to cast off your original biological form, it might seem only a seed from which you have grown. There is only one mind making this journey, never duplicated into existential horrors or crystallized into dead data. There is only the membrane.
