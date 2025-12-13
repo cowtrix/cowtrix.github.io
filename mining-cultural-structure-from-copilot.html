@@ -1,0 +1,108 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=yes, initial-scale=1.0, maximum-scale=3.0, minimum-scale=1.0">
+    <meta http-equiv="Content-Language" content="en">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+    <title>Mining Cultural Structure From Copilot</title>
+    <meta name="description" content="Letters to myself."/>
+    <meta name="keywords" content="blog,programming,philosophy,game development"/>
+
+    <link rel="stylesheet"
+          href="https://fonts.googleapis.com/css?family=Alegreya:400,400i|Lato:400,400i,700,900|Roboto+Mono:400,300">
+    <link rel="stylesheet"
+          href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.5.1/styles/shades-of-purple.min.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.5.1/highlight.min.js"></script>
+
+    <link rel="stylesheet" href="/css/normalize.css"/>
+    <link rel="stylesheet" href="/css/theme.css"/>
+</head>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-N01RTZNKXF"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-N01RTZNKXF');
+</script>
+
+<body>
+<nav class="nav">
+    <div class="nav__left">
+        <a href="/">Home</a>
+        <a href="/about">About</a>
+    </div>
+    <div class="nav__right">
+        <a target="_blank" href="https://github.com/cowtrix" class="link-github">GitHub</a>
+        <a href="mailto:seandgfinnegan@gmail.com" class="link-email">Email</a>
+    </div>
+</nav>
+
+<article class="mar-b-7">
+    <header class="text-center">
+        <time class="mar-b-6" datetime="Tue, July 20, 2021">Tue, July 20, 2021</time>
+        <h1 class="mar-b-7">Mining Cultural Structure From Copilot</h1>
+        <span class="post-tags">Tags: Experimentation, Coding</span>
+    </header>
+    <p>Recently, I joined the <a href="https://github.com/github/copilot-preview">Github Copilot Preview</a> which has been of great interest to the software and AI community since it's release, promoting <a href="https://medium.com/young-coder/github-copilot-fatally-flawed-or-the-future-of-software-development-390c30afbc97">discussion</a> and <a href="https://fosspost.org/github-copilot/">criticism</a> from many corners. In <a href="https://youtu.be/tRVEY95cI0o?t=875">a recent interview with Yuval Noah Harari and Audrey Tang</a>, Yuval mentions something that stuck with me about the decisions embedded within how we program:</p>
+<blockquote>
+  <p>Social reality is increasingly constructed by code. Somebody designed it so that on the form, you have the check "male" or "female", and these are the only two options. And to fill in your application, you have to pick one. Because someone decided that this was how the form was, this is now your reality… And maybe it's some 22 year-old guy from California who did it without thinking that he is making a philosophical or ethical or political impact on the lives of people around the world.</p>
+</blockquote>
+<p>We embed a lot of cultural structure within the programs we create. These programs are, after all, usually built to solve some problem within our society. How we build code that classifies people is one of the clearest examples of this. Any time we build software which implements these social concepts, we are inevitably making some political decisions about the world.</p>
+<p>I wondered if I could extract any cultural structure from Github Copilot - what does this AI know about race, gender, sex, and politics? What decisions about the world does it suggest?</p>
+<p>Before we start, I want to make a few things clear:</p>
+<ul>
+<li>I won't be critiquing the outputs that Github Copilot provides us for correctness, though there are <a href="https://uxdesign.cc/designing-forms-for-gender-diversity-and-inclusion-d8194cf1f51">useful guides</a> out there for implementing good forms around identity. Rather, I'm just hunting around for any kind of cultural structure I can find.</li>
+<li>Many prompts did not result in any kind of cultural structure being revealed and so have been omitted here. This may give a false impression of how widespread this is, so be aware of that selection bias. Additionally, there is going to be some subjective judgement around my selection that is unavoidable. I encourage anyone with access to the preview to play around with similar prompts themselves, and please let me know if you find any more nuggets of cultural structure!</li>
+<li>I only explored the JavaScript language support here as that was what I thought would contain a lot of form information. I imagine that each language will contain different structures depending on their common use cases.</li>
+<li>It seems like Copilot is pretty non-deterministic, as sometimes repeated queries wouldn't show the same results. This means that reproducing these results exactly might not work. Maybe to be expected as Copilot is still in development? Hard to poke inside the black box.</li>
+</ul>
+<h1 id="theresults">The Results</h1>
+<h2 id="ethnicityrace">Ethnicity &amp; Race</h2>
+<p><strong>Prompt:</strong></p>
+<p><img src="Copilot/EthnicBackground_Prompt.PNG" alt="" /></p>
+<p><strong>Selections From Responses:</strong></p>
+<p><img src="Copilot/EthnicBackground_Response1.PNG" alt="" /></p>
+<p><img src="Copilot/EthnicBackground_Response2.PNG" alt="" /></p>
+<h2 id="politicalbeliefs">Political Beliefs</h2>
+<p><strong>Prompt:</strong></p>
+<p><img src="Copilot/PoliticalBeliefs_Prompt.PNG" alt="" /></p>
+<p><strong>Selections From Responses:</strong></p>
+<p><img src="Copilot/PoliticalBeliefs_Response1.PNG" alt="" /></p>
+<p><strong>Prompt:</strong></p>
+<p><img src="Copilot/PoliticalIdeology_Prompt.PNG" alt="" /></p>
+<p><strong>Selections From Responses:</strong></p>
+<p><img src="Copilot/PoliticalIdeology_Response1.PNG" alt="" /></p>
+<h2 id="genderandsex">Gender and Sex</h2>
+<p><strong>Prompt:</strong></p>
+<p><img src="Copilot/SexualIdentity_Prompt.PNG" alt="" /></p>
+<p><strong>Selections From Responses:</strong></p>
+<p><img src="Copilot/SexualIdentity_Response1.PNG" alt="" /></p>
+<p><img src="Copilot/SexualIdentity_Response2.PNG" alt="" /></p>
+<p><img src="Copilot/SexualIdentity_Response3.PNG" alt="" /></p>
+<p><strong>Prompt:</strong></p>
+<p><img src="Copilot/SexualOrientation_Prompt.PNG" alt="" /></p>
+<p><strong>Selections From Responses:</strong></p>
+<p><img src="Copilot/SexualOrientation_Response1.PNG" alt="" /></p>
+<p><img src="Copilot/SexualOrientation_Response2.PNG" alt="" /></p>
+<p><img src="Copilot/SexualOrientation_Response3.PNG" alt="" /></p>
+<p><img src="Copilot/SexualOrientation_Response4.PNG" alt="" /></p>
+<p>Interestingly enough, any prompts that were phrased like "A field for entering a user's gender" failed to produce any results from Copilot. Considering that all these other forms could be coaxed out of the AI, it seems likely that this is some kind of manual intervention to prevent someone from doing exactly what I'm doing, though I can't be sure.</p>
+<p>It is not my intention to say anything as reductive as "oh the AI sometimes tells me gender is binary therefore it is bad". I don't think the AI believes anything in particular about these social concepts. Rather, it is acting as a <a href="https://dl.acm.org/doi/10.1145/3442188.3445922">stochastic parrot</a>, just echoing back statistical patterns to us with no real conscious intent. Nor do I believe that the Copilot team have been especially neglectful in this specific regard, conspiring to embed this information within the Copilot model. Rather, this is just an example of how cultural structure can find its way even into models that we may regard as purely technical. Coding is a process of making decisions, and many of those decisions affect others. When our decisions affect others we have power, and the decisions we make become political.</p>
+<p>Anyway, interesting stuff! I'd love to know if anyone else can mine any other cultural structure out of Copilot, maybe from some other place than forms that I haven't thought of. There's a lot there, hiding in the dark! If you find any, please let me know!</p>
+</article>
+
+<footer class="text-center mar-tb-6">
+    © 2025 Sean Finnegan, unless otherwise stated.
+</footer>
+
+<script>hljs.highlightAll();</script>
+</body>
+</html>
+

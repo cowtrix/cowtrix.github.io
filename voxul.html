@@ -1,0 +1,102 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=yes, initial-scale=1.0, maximum-scale=3.0, minimum-scale=1.0">
+    <meta http-equiv="Content-Language" content="en">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+    <title>voxul</title>
+    <meta name="description" content="Letters to myself."/>
+    <meta name="keywords" content="blog,programming,philosophy,game development"/>
+
+    <link rel="stylesheet"
+          href="https://fonts.googleapis.com/css?family=Alegreya:400,400i|Lato:400,400i,700,900|Roboto+Mono:400,300">
+    <link rel="stylesheet"
+          href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.5.1/styles/shades-of-purple.min.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.5.1/highlight.min.js"></script>
+
+    <link rel="stylesheet" href="/css/normalize.css"/>
+    <link rel="stylesheet" href="/css/theme.css"/>
+</head>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-N01RTZNKXF"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-N01RTZNKXF');
+</script>
+
+<body>
+<nav class="nav">
+    <div class="nav__left">
+        <a href="/">Home</a>
+        <a href="/about">About</a>
+    </div>
+    <div class="nav__right">
+        <a target="_blank" href="https://github.com/cowtrix" class="link-github">GitHub</a>
+        <a href="mailto:seandgfinnegan@gmail.com" class="link-email">Email</a>
+    </div>
+</nav>
+
+<article class="mar-b-7">
+    <header class="text-center">
+        <time class="mar-b-6" datetime="Mon, June 07, 2021">Mon, June 07, 2021</time>
+        <h1 class="mar-b-7">voxul</h1>
+        <span class="post-tags">Tags: GameDev, Coding</span>
+    </header>
+    <p>Introducing voxul, a voxel system and editor tool for <a href="https://unity.com/">Unity 3D.</a> Use it to build voxel meshes, objects and levels. </p>
+<p>The best way to demonstrate this tool is through showing its use. Unfortunately, I'm a much worse voxel artist than I am a tools programmer, and so the demonstration is but a shadow of its potential in my hands. I'd love to get it in the hands of someone a little more artistically talented and get some feedback. This is open source, and there is still plenty of optimization, polish and work to be done.</p>
+<p><img src="voxul/bonsai.PNG" alt="Bonsai!" /></p>
+<video controls><source src="img/voxul/bonsai.mp4" type="video/mp4">Sorry, your browser doesn't support mp4.</video>
+<h1 id="wherecanigetit">Where can I get it?</h1>
+<p>Download voxul <a href="https://github.com/cowtrix/voxul">here.</a></p>
+<h1 id="requirements">Requirements</h1>
+<ul>
+<li>Unity 2020.3.2f1 or later<ul>
+<li>Your project must include both the <a href="https://docs.unity3d.com/Packages/com.unity.render-pipelines.universal@11.0/manual/index.html">Universal Render Pipeline</a> &amp; <a href="https://unity.com/shader-graph">Shadergraph</a></li></ul></li>
+</ul>
+<h1 id="installation">Installation</h1>
+<p>Either clone the Github repository above into the <code>/Assets/</code> folder of your Unity project or use the Unity Package Manager to clone the above repository.</p>
+<h1 id="features">Features</h1>
+<ul>
+<li>Advanced voxel mesh editor: add, remove, subdivide, select, copy/paste, mirror</li>
+</ul>
+<p><img src="voxul/select_delete.gif" alt="select delete" /></p>
+<ul>
+<li>Supports transparency and emission</li>
+<li>Subdivision and resolution layering system that lets you mix and match different voxel grid resolutions.</li>
+</ul>
+<p><img src="voxul/subdivide.gif" alt="subdivide" /></p>
+<ul>
+<li>Automatic spritesheets and custom texturing for each voxel face. Paint surfaces separately, controlling color and texture</li>
+</ul>
+<p><img src="voxul/paintingSurfaces.gif" alt="painting surfaces" /></p>
+<ul>
+<li>Lots of useful utilities for building your voxel systems, like destroyable objects.</li>
+<li>Edit in-scene mesh objects, or save your meshes to their own <code>VoxelMesh</code> assets.</li>
+<li>Works efficiently and shares meshes with prefabs and multi-instanced objects.</li>
+</ul>
+<h1 id="gallery">Gallery</h1>
+<video controls><source src="img/voxul/wurmfight_01.webm" type="video/webm">Sorry, your browser doesn't support webm.</video>
+<p><em>A destroyable voxel prototype I made.</em></p>
+<p><img src="voxul/Room.PNG" alt="" /></p>
+<video controls><source src="img/voxul/vox.mp4" type="video/mp4">Sorry, your browser doesn't support mp4.</video>
+<p><img src="voxul/potionShop.PNG" alt="" /></p>
+<p><img src="voxul/guns.PNG" alt="" /></p>
+<p><img src="voxul/Vending_machine.PNG" alt="" /></p>
+</article>
+
+<footer class="text-center mar-tb-6">
+    © 2025 Sean Finnegan, unless otherwise stated.
+</footer>
+
+<script>hljs.highlightAll();</script>
+</body>
+</html>
+

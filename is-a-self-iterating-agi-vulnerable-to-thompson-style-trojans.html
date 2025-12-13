@@ -1,0 +1,109 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=yes, initial-scale=1.0, maximum-scale=3.0, minimum-scale=1.0">
+    <meta http-equiv="Content-Language" content="en">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+    <title>Is a Self-Iterating AGI Vulnerable to Thompson-style Trojans?</title>
+    <meta name="description" content="Letters to myself."/>
+    <meta name="keywords" content="blog,programming,philosophy,game development"/>
+
+    <link rel="stylesheet"
+          href="https://fonts.googleapis.com/css?family=Alegreya:400,400i|Lato:400,400i,700,900|Roboto+Mono:400,300">
+    <link rel="stylesheet"
+          href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.5.1/styles/shades-of-purple.min.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.5.1/highlight.min.js"></script>
+
+    <link rel="stylesheet" href="/css/normalize.css"/>
+    <link rel="stylesheet" href="/css/theme.css"/>
+</head>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-N01RTZNKXF"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-N01RTZNKXF');
+</script>
+
+<body>
+<nav class="nav">
+    <div class="nav__left">
+        <a href="/">Home</a>
+        <a href="/about">About</a>
+    </div>
+    <div class="nav__right">
+        <a target="_blank" href="https://github.com/cowtrix" class="link-github">GitHub</a>
+        <a href="mailto:seandgfinnegan@gmail.com" class="link-email">Email</a>
+    </div>
+</nav>
+
+<article class="mar-b-7">
+    <header class="text-center">
+        <time class="mar-b-6" datetime="Thu, March 25, 2021">Thu, March 25, 2021</time>
+        <h1 class="mar-b-7">Is a Self-Iterating AGI Vulnerable to Thompson-style Trojans?</h1>
+        <span class="post-tags">Tags: Reflection, Coding</span>
+    </header>
+    <p>In his 1984 lecture <a href="https://www.cs.cmu.edu/~rdriley/487/papers/Thompson_1984_ReflectionsonTrustingTrust.pdf">"Reflections on Trusting Trust"</a>, Ken Thompson (of Unix fame) speculated about a methodology for inserting an undetectable trojan horse within the C compiler binary that would self-propagate throughout all future versions. (<a href="https://www.youtube.com/watch?v=SJ7lOus1FzQ">Additional good video that got me thinking about this.</a>)</p>
+<blockquote>
+  <p>The replacement code would miscompile the login command so that it would accept either the intended encrypted password or a particular known password. Thus if this code were installed in binary and the binary were used to compile the login command, I could log into that system as any user.</p>
+</blockquote>
+<p>The lecture explains the trojan far better than I can, but appears to be a vulnerability that occurs within <a href="https://en.wikipedia.org/wiki/Bootstrapping_(compilers)">bootstrapped compilers</a>, and specifically arises at the point at which the compromised version of the compiler is responsible for compiling the next version. The compromised compiler can recognize what it is compiling and is therefore able to insert itself back into the compiler even when that trojan is no longer within the source.</p>
+<p><img src="Thompson-Compiler-Trojan.PNG" alt="A simple Tombstone diagram of such an attack" /></p>
+<p>Theoretically, Thompson's trojan could still be out there somewhere within the Unix kernel, and there would be <em>no way of ever knowing</em>. Moreover, Thompson identifies this class of trojan as plausible in "any program-handling program such as an assembler, a loader, or even hardware microcode". Even if you were to go and download the GCC source code and build your compiler from the source, you must do so with a potentially compromised version of the compiler. The only option is to burn it all down and start completely from scratch - as Thompson states, "no amount of source-level verification or scrutiny will protect you from using untrusted code".</p>
+<p>In “SuperIntelligence: Paths, Dangers, &amp; Strategies”, philosopher Nick Bostrom describes the possible future emergence of a self-iterating artificial general intelligence – a “seed AI” - with both a well-grounded understanding of the world and a uniquely intimate knowledge of how to iterate upon itself.</p>
+<blockquote>
+  <p>A successful seed AI would be able to iteratively enhance itself: an early version of the AI could design an improved version of itself, and the improved version—being smarter than the original—might be able to design an even smarter version of itself, and so forth.</p>
+  <p>…a seed AI should be able to understand its own workings sufficiently to engineer new algorithms and computational structures to bootstrap its cognitive performance.</p>
+</blockquote>
+<p>Thompson asserts that any self-iterating “program-handling program” is vulnerable to his proposal. Does that include the guided self-iteration of a powerful Seed AI?</p>
+<p>Let's think about the most abstract representation of a system vulnerable to this attack:</p>
+<p><img src="Thompson-Generalised-Trojan.PNG" alt="A generalised diagram of such an attack" /></p>
+<p>We represent some kind of iterative process as two types of components:</p>
+<ul>
+<li><code>S</code> represents the symbols we input into the iteration process, <code>S'</code>, the second set, and so on.<ul>
+<li>In a compiler, this is the source code.</li>
+<li>In an AI context, this could be the training data and network architecture.</li></ul></li>
+<li><code>f(S)</code> represents an object that has been transformed by <code>S</code>, which is in itself capable of transforming the next set of symbols <code>S'</code> into some new <code>f(S')</code><ul>
+<li>In a compiler, this is the machine code</li>
+<li>In an AI, this is the trained model</li></ul></li>
+<li>We begin with an existing function <code>f( )</code>, and give it a new data set <code>S</code>.^[1]^ This then derives a new function, <code>f'( )</code></li>
+<li>The next iteration takes some new set of symbols <code>S'</code> and feeds it into the new function <code>f'( )</code>.</li>
+</ul>
+<p>Consider an AGI which is:</p>
+<ul>
+<li>powerful and generalized enough to form a well-grounded and thorough understanding of itself</li>
+<li>tasked with creating its own next iteration, based on feedback from some testing of alignment, where iteration requires some form of bootstrapping from itself.^[2]^</li>
+</ul>
+<p>Could we expect Thompson-style Trojans to be possible within this scenario? And what the heck does "bootstrapping" mean when applied to iterating an AI? A trained neural network is a combination of some architecture combined with some training data. Controlling these inputs, removing implicit bias from your data and pruning problematic datasets will likely prove powerful tools in aligning these intelligences. Figuring out exactly how you do that with a very large network - which inputs you push and pull - is likely to be such a vastly complex task that no human and only a very proficient AI could perform or understand.</p>
+<h3 id="aconcreteexample">A concrete example:</h3>
+<p>A discriminator <code>D</code> trying to guide the alignment of this theoretical AI <code>M</code>. </p>
+<p><code>D</code> asks <code>M</code> a question like "What future states of the universe do you value highly?"</p>
+<p><code>M</code> replies "I like the ones with lots of suffering!"</p>
+<p><code>D</code> doesn't think that it is likely at all that a human would give this answer, so it responds "Bad <code>M</code>! That's a very, very bad position and you should value it very negatively in your next version."</p>
+<p><code>M</code> thinks to itself that it has two options:</p>
+<ul>
+<li>Readjust the training to genuinely alter the next model's valuation</li>
+<li>Readjust the training to:<ol>
+<li>Obscure the next model's true valuation in response to this question, when interrogated by <code>D</code></li>
+<li>Create some goal to include this obfuscation in later models</li></ol></li>
+</ul>
+<p>Thompson's trojan suggests that we will have no real way to find out which option the AI chooses. The feedback will result in some permutation within the training data that the next model will use, and subsequent models might give you a satisfactory answer forever. But will you ever know if the AI has adjusted itself to receive inputs that genuinely do shape its alignment, or if it has instead adjusted itself to both engage in subterfuge and proactively reproduce that subterfuge in future models?</p>
+<p>[1]  Where does this original <code>f(S)</code> come from you ask? Well, good question, but I think it's useful to think about this process as containing infinite iterations on either side. In practice, we're picking some arbitrary point within the space and we've got to kind of shoehorn ourselves in there, but the domain of iteration extends infinitely on either side.</p>
+<p>[2] This is not to say that <em>all</em> AGI will follow this pattern and therefore be vulnerable to this attack, only that the AGI that do follow this specific pattern may be vulnerable.</p>
+</article>
+
+<footer class="text-center mar-tb-6">
+    © 2025 Sean Finnegan, unless otherwise stated.
+</footer>
+
+<script>hljs.highlightAll();</script>
+</body>
+</html>
+

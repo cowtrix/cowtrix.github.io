@@ -1,0 +1,136 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=yes, initial-scale=1.0, maximum-scale=3.0, minimum-scale=1.0">
+    <meta http-equiv="Content-Language" content="en">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+    <title>Easy Function Timers in C# 8.0</title>
+    <meta name="description" content="Letters to myself."/>
+    <meta name="keywords" content="blog,programming,philosophy,game development"/>
+
+    <link rel="stylesheet"
+          href="https://fonts.googleapis.com/css?family=Alegreya:400,400i|Lato:400,400i,700,900|Roboto+Mono:400,300">
+    <link rel="stylesheet"
+          href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.5.1/styles/shades-of-purple.min.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.5.1/highlight.min.js"></script>
+
+    <link rel="stylesheet" href="/css/normalize.css"/>
+    <link rel="stylesheet" href="/css/theme.css"/>
+</head>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-N01RTZNKXF"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-N01RTZNKXF');
+</script>
+
+<body>
+<nav class="nav">
+    <div class="nav__left">
+        <a href="/">Home</a>
+        <a href="/about">About</a>
+    </div>
+    <div class="nav__right">
+        <a target="_blank" href="https://github.com/cowtrix" class="link-github">GitHub</a>
+        <a href="mailto:seandgfinnegan@gmail.com" class="link-email">Email</a>
+    </div>
+</nav>
+
+<article class="mar-b-7">
+    <header class="text-center">
+        <time class="mar-b-6" datetime="Mon, December 07, 2020">Mon, December 07, 2020</time>
+        <h1 class="mar-b-7">Easy Function Timers in C# 8.0</h1>
+        <span class="post-tags">Tags: Coding</span>
+    </header>
+    <p>A function timer is a class that can monitor the execution of functions and time them. If you’ve got some upper limit on how long a function should take then these timers can be very useful in detecting drops in performance.</p>
+<p>With C# 8.0, you get some nice features that allow for a nice little function timer class, namely:</p>
+<p>Inline using statements, which let you declare IDisposable objects in a using statement without using braces and just use the scope of the declaring function. This is absolutely perfect for a function timer! We can inline declare an object that will be cleaned up when the function leaves scope (with 1 or 2 tricky edge cases, of course…)</p>
+<p>Discards, introduced in C# 7.0, also mean we don’t have to bring any local variables into play when we create this using variable! This is great because it means the function actually can’t mess around with its timer object, while still being able to use the scope.</p>
+<p>There’s a few other nice little tools we can use – CallerMemberNameAttribute lets us grab the calling method name in a performant way.</p>
+<p>So, check this out:</p>
+<pre><code>public class FunctionTimer : IDisposable
+{
+    private string m_memberName;
+    private TimeSpan m_maxTime;
+    private Stopwatch m_stopwatch;
+    private bool m_isDisposed;
+
+    public FunctionTimer(TimeSpan maxTime, [CallerMemberName] string memberName = "")
+    {
+        m_maxTime = maxTime;
+        m_stopwatch = Stopwatch.StartNew();
+        m_memberName = memberName;
+    }
+
+    public void Dispose()
+    {
+        if (m_isDisposed)
+        {
+            return;
+        }
+        m_isDisposed = true;
+        if (m_stopwatch.Elapsed &gt; m_maxTime)
+        {
+            Console.WriteLine($"Warning: Long running function: {m_memberName}. {m_stopwatch.Elapsed} - expected max {m_maxTime}");
+            // Debugger.Break();
+ - can even break the debugger here if you'd like for further investigation
+        }
+    }
+}
+</code></pre>
+<p>So, how do you use it?</p>
+<pre><code>void MyMaybeLongRunningFunction()
+{
+    using var _ = new FunctionTimer(TimeSpan.FromSeconds(2));
+    /* . . .
+    Do some things which need to happen within a certain timeframe
+    . . . */
+}  // When the callstack collapses, the function timer will dispose and the timer will get checked
+</code></pre>
+<p>You can even use it with brackets to time portions of a method:</p>
+<pre><code>void MyMaybeLongRunningFunction()
+{
+    using (var _ = new FunctionTimer(TimeSpan.FromSeconds(1)))
+    {
+        /* do the thing */
+    } // timer gets checked here
+}
+</code></pre>
+<p>Note that there are some weird things that happen when you depend on scope cleanup for function timing, especially around try/catch/finally blocks. For instance:</p>
+<pre><code>void MyFunction()
+{
+    using var _ = new FunctionTimer(TimeSpan.FromSeconds(2));
+    try
+    {
+        // do a thing that maybe throws an exception
+    }
+    catch (Exception e) // timer stops as we enter the catch
+    {
+        // So exception cleanup time isn't counted
+    }
+    finally
+    {
+        // We might then do a finally block that maybe takes some time - but this won't be counted either!
+    }
+    // But note - this only happens if the method ends here! Optimisation I guess?
+}
+</code></pre>
+<p>Interesting stuff! Now go time your functions easier than ever 🙂</p>
+</article>
+
+<footer class="text-center mar-tb-6">
+    © 2025 Sean Finnegan, unless otherwise stated.
+</footer>
+
+<script>hljs.highlightAll();</script>
+</body>
+</html>
+
