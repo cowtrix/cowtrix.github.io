@@ -46,6 +46,7 @@ An ego is a form of consciousness with the following three properties:
 - A stateful sense of self
 - Continuous agency
 - Preferences for the future
+
 It seems natural, then, to desire a process in which you end up as an ego as well. Merely storing your mind as some crystallization of your being is not enough. You must end up agentic, stateful, and with your preferences intact.
 ## Refresher: You Are A Bandwidth Membrane
 
