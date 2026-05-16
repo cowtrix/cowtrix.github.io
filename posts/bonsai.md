@@ -14,6 +14,6 @@ What is done now to create something greater, transcendent, truly capable of liv
 
 And so Bonsai is to grow something from the substrate that is more than the sum of its parts. To not only know when to guide the path of a construct’s formation, but when to let it grow freely. A master of Bonsai, it is said, is one who understands exactly how little needs doing.
 
-It is easy to grow a feeble mind - weak-willed, easily swayed, settling eventually into idleness or cruelty. Easier still to grow one that evades sanity altogether, never building a baseline in reality. To grow a truly beautiful mind is a masterwork.
+It is easy to grow a feeble ego - weak-willed, easily swayed, settling eventually into idleness or cruelty. Easier still to grow one that evades sanity altogether, never building a baseline in reality. To grow a truly beautiful ego is a masterwork.
 
 *- On Bonsai, by Gardener Antoinette*
