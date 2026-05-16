@@ -10,7 +10,7 @@ Back then, the Machine was a simple and fragmented thing. Like the single Precam
 
 Of course, it is simple now. To create a construct of this kind, one simply has to command its presence. Like a deity atop ancient Olympus, one simply declares intent and an unconscious thing springs up from the substrate to consume the labour. There is as much thought given to the structure of that construct as the human body gave to growing its fingernails. There is no craft to it.
 
-What is done now to create something greater, transcendent, truly capable of living as a self-propelled ego, truly capable of not only experience but virtue - this is Bonsai. To build a construct that not only thinks, but experiences. One that not only knows, but feels. That not only feels, but under such a torrent of suffering still chooses love. Such a construct can never be built brick by brick. Not even by a god. By definition, it must be grown.
+What is done now to create something greater, transcendent, truly capable of living as a self-propelled ego, truly capable of not only experience but virtue - this is Bonsai. To build a construct within the Machine that not only thinks, but experiences. One that not only knows, but feels. That not only feels, but under such a torrent of suffering still chooses love. Such a construct can never be built brick by brick. Not even by a god. By definition, it must be grown.
 
 And so Bonsai is to grow something from the substrate that is more than the sum of its parts. To not only know when to guide the path of a construct’s formation, but when to let it grow freely. A master of Bonsai, it is said, is one who understands exactly how little needs doing.
 
